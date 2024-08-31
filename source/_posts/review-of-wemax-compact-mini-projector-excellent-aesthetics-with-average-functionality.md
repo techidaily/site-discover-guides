@@ -1,7 +1,7 @@
 ---
 title: "Review of Wemax Compact Mini Projector: Excellent Aesthetics with Average Functionality"
-date: 2024-08-27 10:38:56
-updated: 2024-08-29 10:28:54
+date: 2024-08-30T20:25:21.889Z
+updated: 2024-08-31T20:25:21.889Z
 tags:
   - product-reviews
 categories:
@@ -110,10 +110,17 @@ Related: [The Best Portable Projectors of 2023](https://twitter-videos.techidail
 
  Compared to similar 1080p models, the Dice doesn't falter. In fact, I'd go so far as to say its projection is its shining feature. It struggles a little with darker scenes and could contrast against shades of black a little better, but anything with a lot of color is going to shine bright. However, the projector suffers in brighter rooms, and it doesn't take a lot of ambient light to wash out the projection.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ###  Choose Your Distance
 
 ![Wenax Duce projection against a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/52709190598_2165f36f14_k.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 _Hannah Stryker / How-To Geek_
 
  The Wemax Dice has quite the range when it comes to how far it can be from the wall. The screen size itself can stretch from 60 inches at 4.9 feet away from the wall to 200 inches at over 16 feet back. And all of this is done without a significant drop in quality. There are some very minor variations as the projection gets bigger, especially if there's a bit of ambient light in the room, but it always retains a noticeably high quality. This is common among portable projectors.
@@ -124,12 +131,19 @@ _Hannah Stryker / How-To Geek_
 
  If you're a gamer, you know a crucial element is response time. Does what's happening on the screen match up to your inputs? I've yet to experience latency issues on a portable projector, and the Wemax Dice doesn't disappoint. I always expect that barely noticeable delay when gaming on a projector, but you won't have any issues on modern consoles.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ##  Middling Audio With Some Options
 
  Where Wemax stumbles a little is in the audio department. The Dice mini projector is equipped with dual 5W speakers compatible with [Dolby Digital Plus](https://fox-hovers.techidaily.com/in-2024-adjusting-windows-11-settings-for-adaptive-hdr/). However, they don't produce that room-filling sound you'd expect from Dolby. I wanted a little more out of the Wemax Dice, especially since the [XGIMI MoGo 2 Pro](https://screen-video-capture.techidaily.com/simplifying-streaming-key-tactics-for-youtube-and-twitch-via-obs-for-2024/), which is about the same size, produces a booming, present sound that works with gaming and movies.
 
  The disappointing sound quality won't fully pull you out of the experience but don't expect to be blown away. For the most part, it's just kind of "okay" and will need a little help through the 3.5 mm port.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Android TV Stumbles a Little
 
 ![Wemax Dice projector in Android TV](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/52709190508_b0798f0896_k.jpg) 
@@ -150,6 +164,9 @@ Related: [XGIMI MoGo 2 Pro Projector Review: Turn Every Room Into a Theater Room
 
  If you're not pleased with the auto-keystone correct, you can take over manually and move the four corners as needed with the remote. Being able to angle the projector makes it more compatible with a greater variety of spaces. Even if you're not working with a large theater room, you'll likely still have space to cast an image.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Wemax Dice Mini Portable Projector?
 
  If you're familiar with high-end portable projectors, the [Wemax Dice Mini Projector](https://www.amazon.com/Portable-Projector-Keystone-Correction-Battery/dp/B086R5YWW1?tag=htg-v2-5eslf37-20&ascsubtag=UUhtgUeUpU228076&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896535%2Fwemax-dice-mini-portable-projector-review%2F&asc%5Fcampaign=Affiliate) likely won't blow your mind. If you're newer in this space, you may be more enamored by its 700 lumens, dual-5W speakers, and built-in Android TV. Despite its flaws, the mini projector does deliver several important features, such as a vibrant display and solid construction.
@@ -162,6 +179,9 @@ Related: [XGIMI MoGo 2 Pro Projector Review: Turn Every Room Into a Theater Room
 
 ![Wemax-Dice-mini-projector-small-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/wemax-dice-mini-projector-small-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Wemax Dice Mini Portable Projector
 
 7/ 10 
@@ -184,3 +204,48 @@ Wemax Dice Mini Portable Projector has Android TV, Google Play, Google Assistant
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-basics-of-effective-vlogging/"><u>[New] Exploring the Basics of Effective Vlogging</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-enable-vlcs-webcam-recording-for-high-quality-footage-for-2024/"><u>[Updated] Enable VLC's Webcam Recording for High-Quality Footage for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-breakdown-of-popular-elements-in-youtube-shorts/"><u>[Updated] In 2024, Breakdown of Popular Elements in YouTube Shorts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-navigating-steam-with-your-switch-pro-device/"><u>[Updated] In 2024, Navigating Steam with Your Switch Pro Device</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-file-saving-on-windows-11-a-compendium-of-six-techniques/"><u>[Updated] Mastering File Saving on Windows 11  A Compendium of Six Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-scoutingcameras-more-than-just-mycam-for-2024/"><u>[Updated] ScoutingCameras  More Than Just MyCam for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/iphoneiso/"><u>「IPhoneへのISO画像取り込み・再生ガイド：シンプルでわかりやすい手順」</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1-the-ultimate-guide-customizing-your-youtube-videos-dimensions-for-optimal-viewing-and-upload-success/"><u>1. The Ultimate Guide: Customizing Your YouTube Videos' Dimensions for Optimal Viewing & Upload Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-list-editors-for-android-pics/"><u>2024 Approved  A-List Editors for Android Pics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-the-dynamics-behind-youtubes-investment-in-shorts/"><u>2024 Approved  Understanding the Dynamics Behind YouTube's Investment in Shorts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-plus-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Plus Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/bypass-copy-protection-on-lionsgate-dvds-and-more-expert-solutions-revealed/"><u>Bypass Copy Protection on Lionsgate DVDs & More – Expert Solutions Revealed!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-perfect-first-impressions-on-any-device-for-2024/"><u>Crafting Perfect First Impressions on Any Device for 2024</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/effiziente-prufung-und-analyse-von-fehlerarmen-einreichen-mit-abbyy-software-tools/"><u>Effiziente Prüfung Und Analyse Von Fehlerarmen Einreichen Mit ABBYY Software Tools</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/effortless-tutorial-on-downloading-and-resizing-youtube-content-for-offline-viewing/"><u>Effortless Tutorial on Downloading & Resizing YouTube Content for Offline Viewing</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/enjoy-superior-quality-viewing-play-youtubes-4khdr-media-on-your-iphone-or-ipad/"><u>Enjoy Superior Quality Viewing: Play YouTube's 4K/HDR Media on Your iPhone or iPad</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-guide-remnant-from-the-ashes-continues-to-encounter-persistent-crashing-issues/"><u>Fix Guide - 'Remnant: From the Ashes' Continues to Encounter Persistent Crashing Issues</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/free-ways-to-transform-mxf-files-into-mp4-format-a-step-by-step-guide/"><u>Free Ways to Transform MXF Files Into MP4 Format: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/guida-completa-ai-tutorial-di-creazione-e-editing-video-backup-su-dvd-conversioni-e-riscalature/"><u>Guida Completa Ai Tutorial Di Creazione E Editing Video - Backup Su DVD, Conversioni E Riscalature</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-def-zoom-manipulator/"><u>High-Def Zoom Manipulator</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-sony-xperia-10-v-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Sony Xperia 10 V to iPad | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-nubia-z50s-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Nubia Z50S Pro FRP Bypass</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-fun-girl-games-for-kids/"><u>In 2024, Top Fun Girl Games for Kids</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/introducing-macxdvd-the-ultimate-iphone-data-transfer-solution-now-compatible-with-ios-10-exclusive-giveaway-of-few-available-units/"><u>Introducing MacXDVD: The Ultimate iPhone Data Transfer Solution Now Compatible with iOS 10 – Exclusive Giveaway of Few Available Units!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12-pro-4gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12 Pro 4GFRP Lock</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/macdvdipad-proipad-airipad-4ipad-3ipad-mini/"><u>Mac电脑解码任何DVD转移至iPad Pro/iPad Air/iPad 4/iPad 3/iPad Mini的简单方法</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/macx-dvd-ripperwindows-dvd-burning/"><u>MacX DVD Ripper(Windows版) - DVD Burning 詳細プログラムマニュアル</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1724766456654-macx-mediatrans/"><u>MacX MediaTrans 正しい操作手順【公式ガイド】 - 完全なユーザーマニュアル</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/officially-acquire-the-entire-macxdvd-software-package-enjoy-premium-features-with-a-complimentary-full-access-membership/"><u>Officially Acquire the Entire MacXDVD Software Package: Enjoy Premium Features with a Complimentary Full Access Membership!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-fixes-for-privacy-concerns-in-piscart-images/"><u>Quick Fixes for Privacy Concerns in PiscArt Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/real-time-reality-rally-does-digital-dethrone-device-dominance-in-2024/"><u>Real-Time Reality Rally  Does Digital Dethrone Device Dominance, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/safely-save-your-streaming-stash-with-these-free-tools-for-2024/"><u>Safely Save Your Streaming Stash with These Free Tools for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-stop-0x0000007b-blue-screen-error/"><u>Solved: STOP 0X0000007B Blue Screen Error</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/step-by-step-guide-dvd-extraction-with-vlc-on-macos-and-windows-computers/"><u>Step-by-Step Guide: DVD Extraction with VLC on macOS and Windows Computers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategy-sketches-plotting-the-market-map-for-2024/"><u>Strategy Sketches  Plotting the Market Map for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/ultimate-guide-to-the-finest-ios-device-transfer-apps-user-ratings-and-insights/"><u>Ultimate Guide to the Finest iOS Device Transfer Apps: User Ratings and Insights</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/ultimate-guide-best-tools-for-converting-videos-and-audio-urls-to-mp3-format-on-macos-devices/"><u>Ultimate Guide: Best Tools for Converting Videos and Audio URLs to MP3 Format on macOS Devices</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/ultimate-guide-swiftly-boosting-your-lagging-iphones-speed-with-7-proven-strategies/"><u>Ultimate Guide: Swiftly Boosting Your Lagging iPhone's Speed with 7 Proven Strategies</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-free-tv-streaming-9-sites-you-need-to-know/"><u>Updated In 2024, Free TV Streaming 9 Sites You Need To Know</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/visioncutting-software/"><u>VisionCutting Software</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/18-digiartys-18th-anniversary-special-project/"><u>ディジアルティ18周年特別企画！芸術的旅行への誘い - DigiArty's 18Th Anniversary Special Project!</u></a></li>
+</ul></div>
