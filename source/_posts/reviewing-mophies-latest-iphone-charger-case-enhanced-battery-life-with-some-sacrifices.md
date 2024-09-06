@@ -1,7 +1,7 @@
 ---
 title: Reviewing Mophie's Latest iPhone Charger Case - Enhanced Battery Life with Some Sacrifices
-date: 2024-08-30T20:25:22.862Z
-updated: 2024-08-31T20:25:22.862Z
+date: 2024-09-05T10:53:29.636Z
+updated: 2024-09-06T10:53:29.636Z
 tags:
   - product-reviews
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ## Reviewing Mophie's Latest iPhone Charger Case - Enhanced Battery Life with Some Sacrifices
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Mophie Juice Pack offers a well-designed case that extends phone battery life by roughly 50%.
@@ -21,8 +27,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Mophie Juice Pack for iPhone 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1006_source_1708979244.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-staff-pick-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Mophie Juice Pack for iPhone 15
 
 7/ 10 
@@ -42,6 +60,12 @@ A charging case for the iPhone 15 line of phones that offers roughly 50% more ba
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Mophie Juice Pack for iPhone retails for $99.95—no matter the phone size. The only item inside the box is the Juice Pack charging case; you’ll need to provide your own power adapter and USB-C cable. I reviewed the iPhone 15 Pro Max model.
@@ -78,14 +102,16 @@ A charging case for the iPhone 15 line of phones that offers roughly 50% more ba
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Well-Designed Case That Does Its Job
 
 ![All Mophie Juice Pack iPhone 5 cases](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/53707492904_41fa32237e_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Given how long Mophie was in the charging case-making business, it’s no surprise that the Juice Pack is such a refined product. It looks sleek, feels good in the hand, and extends your phone’s battery length by roughly 50%.
@@ -101,7 +127,10 @@ Jerome Thomas / How-To Geek
 ![Charging lights on Mophie Juice Pack for iPhone 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/53707593225_fc26dc66b3_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
@@ -113,29 +142,32 @@ Jerome Thomas / How-To Geek
 
  So, we’ve established that the Mophie Juice Pack is a charging case that hits all its benchmarks and claims. But before you go to purchase it, we need to discuss a handful of underlying issues surrounding the form factor that makes it hard to recommend.
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Conundrum of Phone Charging Cases
 
 ![Mophie Juice Pack for iPhone 15 face-down](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/53706254577_4c72700123_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Every yearly refresh of the iPhone comes with design changes that in turn demand customers who use cases to purchase new ones. This isn’t a huge deal for a cheaper, standard-issue case, but the steep $100 price of Mophie’s Juice Pack is a tough sell given its potentially limited shelf life. If you want this product and plan on upgrading your phone annually, you’ll also need to shell out for a new charging case (assuming Mophie continues the product line). And if we’re being frank, Mophie launching this product midway through the iPhone 15’s life cycle already cuts its value in half. The iPhone 16 is just a few months out.
 
  If you’re someone who plans on keeping your phone for an extended period, perhaps this is less of an issue. However, shape-shifting phone form factors aren’t the only inherent flaw of charging cases. They also struggle to compete against the value of their competition in the portable charging space. Let's look at a few of these.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ##  Why You Should Consider These Charging Alternatives
 
 ![Charging a Samsung phone and an iPad with the Ugreen 20,000mAh Two-Way Fast Charging Power Bank](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/charging-a-samsung-phone-and-an-ipad-with-the-ugreen-100w-20000mah-power-bankjpg_53344897146_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  A power bank such as [Mophie’s Powerstation](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004234/https://www.zagg.com/powerstation-2023) ($49.95) is a battery pack that allows you to charge multiple devices at once and should work for every kind of phone. Coming in at half the cost of the Juice Pack, the Powerstation has a 10,000 mAh battery, which on paper provides roughly 333% more charging capability than the charging case’s 3,000mAh iPhone 15 Pro Max variant. Other iPhone 15 models fare even better in comparison. It’s also capable of charging three devices at once, and while only one of the ports in this model is USB-C, there are other offerings for multiple USB-C ports, and at an even lower cost than Mophie’s power bank to boot.
@@ -147,7 +179,16 @@ Hannah Stryker / How-To Geek
 ![Mophie Juice Pack with iPhone 15 face-up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/53707161201_f2542dfd57_o-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
