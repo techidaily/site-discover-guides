@@ -1,7 +1,7 @@
 ---
 title: 無料で簡単! DNG画像をPNGに変換する - モヴァビーズポータブルアプリケーション
-date: 2024-09-14T17:49:23.589Z
-updated: 2024-09-15T18:06:23.948Z
+date: 2024-09-14T16:23:16.050Z
+updated: 2024-09-20T21:08:31.380Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/7d1b7d497493e5756a9eae2f81fc5bb531d48fafeba479fd9a0bba8059bd4edc.jpg
@@ -205,6 +205,19 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 
 * GUI 看起來很舊，簡直像 XP，而且功能有限
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**FastStone Image Viewer**](https://www.faststone.org/)
@@ -221,18 +234,18 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 對普通使用者而言工具太多了
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 [**IrfanView**](https://www.irfanview.com/)
 
 ![](https://cdn.staticont.net/page_type/0013/40/dcdf45d4b6ceea077e36e869c5e7f60097f8c957.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 十幾年來，IrfanView 都是許多 Windows 10 和 Windows 7 電腦中的必備產品。原因不難理解，這款軟體包含了一大堆的圖像編輯功能，包括批次轉換，並允許為更多特殊需求新增外掛程式。IrfanView 同時也是掃描機和電腦之間的介面，因此無需再打開通用的掃描視窗，也無需在設定上做手腳，因為 IrfanView 全會為您搞定，更能組織圖片。雖然這款軟體看起來有點舊了，但說到務實的圖片瀏覽，這個就能搞定一切了。
 
@@ -251,10 +264,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 ![](https://cdn.staticont.net/page_type/0013/40/9462b44dd7787a9d521c67727a9d947cbc74b9ef.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 與 FastStone 的圖片檢視器類似，XnView 的介面易於瀏覽，可以清晰顯示所有圖像，並為使用者提供所選照片的大型視圖。該軟體支援所有標準的圖像檔案類型，如 JPEG、PNG 和 TIFF，甚至還支援其他一些編解碼器，如相機的 RAW 檔等等。甚至還能當作多媒體瀏覽平台來使用，讓您開啟並檢查影音檔。雖然在新增動畫和轉換檔案方面沒有 Windows Photo Viewer 那麼全面，但仍不失為 XnView Classic 的推薦替代品，或者只需支付少量費用就能獲得強化的 MP 版本。
@@ -267,18 +280,18 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 圖片只能在單一頁籤中開啟且無法捲動
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 [**Nomacs**](https://github.com/nomacs/nomacs)
 
 ![](https://cdn.staticont.net/page_type/0013/45/3c872b24e843d2a8619d1d110f90c6a4aef905b7.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 除了 Windows 10 相片檢視器的標準檢視選項外，Nomacs 還多了一個整潔的備註方塊。該放塊可供您放入評論，以供日後使用。無論您是需要匯出圖像以便日後在更複雜的軟體中進行編輯，還是僅僅是為了提醒自己相片中的人事物，這項功能都十分有用。在「調整」索引標籤中，也有些既實用又有趣的工具。其中一個叫做「Tiny Planet」，可以將您的圖像轉換為酷似地球儀的正方形裁剪照片，非常適合將風景照製作成 360 度的全景。更棒的是，無論您是要私下使用，還是有商業用途，Nomacs 都可以免費下載。
 
@@ -320,6 +333,13 @@ Movavi Photo Editor
 
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 常見問題集
 
 ### 最好的 Windows 相片檢視器是什麼？
@@ -332,13 +352,6 @@ Movavi Photo Editor
 * XnView
 * Nomacs
 * Google Photos
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 那一個是用於觀賞照片的最佳軟體?
 
@@ -407,19 +420,6 @@ Movavi Photo Editor
 
 ![](https://cdn.staticont.net/large/0023/57/cf8906a2f1d2d8afde4fca802515cea44f819eb7.jpg)![](https://cdn.staticont.net/large/0023/57/a26cd736bdba4b196180fd96537ae9b75b6253ba.jpg)![](https://cdn.staticont.net/large/0023/57/c2e7dff79a124e18600d55aec01616cde09d6c5b.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 超過 150萬位用戶已訂閱我們的電子報
 
 您的電子郵件
@@ -443,21 +443,19 @@ Movavi Photo Editor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/00plus-gaming-channel-names-for-every-gamer-filmora-for-2024/"><u>[New] 100+ Gaming Channel Names for Every Gamer - Filmora for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-5-mac-videography-tools-unleashed-in-sierra-os/"><u>[New] Top 5 Mac Videography Tools Unleashed in Sierra OS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-first-steps-in-mastering-av1-coders/"><u>[Updated] First Steps in Mastering AV1 Coders</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/wavogg/"><u>「WAVからOGGへの高速バッチ変換方法：専門ガイド」</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-identifying-video-centric-dialogues/"><u>2024 Approved Identifying Video-Centric Dialogues</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-70-lite-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-assistants-on-rise-demystifying-chatbot-trends/"><u>AI Assistants on Rise: Demystifying Chatbot Trends</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/airpodsairpods-pro/"><u>AirPodsおよびAirPods Proについての高品質録音テクニック - 内蔵マイクを活用する方法</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/effortless-access-dive-into-taylor-swifts-melodies-with-secure-mp3-downloads/"><u>Effortless Access: Dive Into Taylor Swift's Melodies with Secure MP3 Downloads</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/effortless-web-based-media-viewing-learn-to-enjoy-any-video-file-instantly-and-directly-in-browser/"><u>Effortless Web-Based Media Viewing: Learn to Enjoy Any Video File Instantly and Directly in Browser</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Fake the Location to Get Around the MLB Blackouts on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/mastering-media-playback-how-to-watch-videos-seamlessly-in-chrome/"><u>Mastering Media Playback: How to Watch Videos Seamlessly in Chrome</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/reliable-vox-file-transformation-step-by-step-guide-on-converting-vox-to-mp3-and-wav/"><u>Reliable VOX File Transformation: Step-by-Step Guide on Converting VOX to MP3 & WAV</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/your-ultimate-resource-for-downloading-detailed-manuals-on-every-iphone-edition/"><u>Your Ultimate Resource for Downloading Detailed Manuals on Every iPhone Edition</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1726027377865-gif/"><u>エンゲージメント向上：キラリとした文字でGIFに命を吹きこむ方法</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ps4-broadcast-simplified-detailed-steps-using-obs/"><u>[Updated] 2024 Approved PS4 Broadcast Simplified Detailed Steps Using OBS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-film-techniques-free-ecological-templates-for-2024/"><u>[Updated] Film Techniques Free Ecological Templates for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-expertly-mastering-file-imports-in-the-realm-of-windows-10/"><u>[Updated] In 2024, Expertly Mastering File Imports in the Realm of Windows 10</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/comparando-ntsc-e-pal-che-cose-di-meglio-e-come-si-distinguono/"><u>Comparando NTSC E PAL: Che Cos'è Di Meglio E Come Si Distinguono</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-z-flip-5-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy Z Flip 5 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-sony-xperia-5-v-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Sony Xperia 5 V Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-realme-12-proplus-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Realme 12 Pro+ 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/kostenloze-wmv-in-ogv-konvertierungskracht-mega-speedy-converter/"><u>Kostenloze WMV-in-OGV Konvertierungskracht - Mega Speedy Converter</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-gifs-your-step-by-step-meme-making-journey/"><u>Mastering GIFs Your Step-by-Step Meme Making Journey</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/movavi-wmv-m4v/"><u>Movavi 自由轉換 WMV到 M4V在線上 - 全額免費服務</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/movavis-free-web-service-for-transforming-aif-audio-to-high-quality-flac/"><u>Movavi's Free Web Service for Transforming AIF Audio to High-Quality FLAC</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/scambia-file-tga-per-jpg-senza-costi-servizi-di-conversione-online-movavi/"><u>Scambia File TGA per JPG Senza Costi - Servizi Di Conversione Online Movavi</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/trasforma-pcx-in-formato-gif-online-free-utilizzando-leditor-di-movavi/"><u>Trasforma PCX in Formato GIF Online Free - Utilizzando L'Editor Di Movavi</u></a></li>
 </ul></div>
 
