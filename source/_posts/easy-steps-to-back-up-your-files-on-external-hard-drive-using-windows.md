@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Back Up Your Files on External Hard Drive Using Windows
-date: 2024-10-13T20:42:26.474Z
-updated: 2024-10-17T21:04:29.261Z
+date: 2024-10-18T16:31:41.982Z
+updated: 2024-10-23T16:33:53.358Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056b7a7373daee332b511aa58b.jpg
@@ -50,10 +50,16 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -95,10 +101,16 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
@@ -151,6 +163,13 @@ Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 5: Crea un Nuovo Account Utente
 
 Passo 1\. Apri Impostazioni:
@@ -177,6 +196,13 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -198,10 +224,10 @@ Passo 4\. Avvia il Backup:
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
@@ -217,13 +243,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 #3: AOMEI Backupper può ripristinare il mio sistema se necessario?
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
 
@@ -255,19 +274,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -279,10 +285,16 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -300,24 +312,21 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-from-chats-to-files-the-methodical-approach-to-downloading-fb-video-for-2024/"><u>[New] From Chats to Files The Methodical Approach to Downloading FB Video for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-ultimate-guide-to-evaluating-and-enhancing-your-instream-ads-on-facebook/"><u>[New] The Ultimate Guide to Evaluating & Enhancing Your Instream Ads on Facebook</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-record-screen-on-huawei-mate-10-20-p20-and-p10-using-a-built-in-recorder/"><u>2024 Approved Record Screen On Huawei Mate 10, 20, P20 and P10 Using a Built-In Recorder</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1728482684746-windows-n/"><u>防止Windows N资料片丢失：专家分析失档解决方案</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1728464708870-google/"><u>簡單上手：Google雲端存取及同步功能的下載、安裝及配置指南</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/capture-natures-wonders-innovative-smart-feeder-photographs-hummingbirds-up-close-insights-from-zdnet/"><u>Capture Nature's Wonders: Innovative Smart Feeder Photographs Hummingbirds Up Close - Insights From ZDNet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/frametaker-high-quality-edition/"><u>FrameTaker High-Quality Edition</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/zero-to-hero-in-youtubing-equipment-essentials/"><u>From Zero to Hero in YouTubing Equipment Essentials</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/get-rid-of-corrupt-excel-2007-file-by-stellar-guide/"><u>Get Rid of corrupt Excel 2007 File</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/githubs-best-practices-for-chatgpt-qanda-strategies/"><u>GitHub's Best Practices for ChatGPT Q&A Strategies</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/guide-complet-a-la-restauration-de-votre-pc-avec-windows-10-ou-11-4-strategies-efficaces/"><u>Guide Complet À La Restauration De Votre PC Avec Windows 10 Ou 11 : 4 Stratégies Efficaces</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/guide-to-enabling-image-sync-between-your-iphone-and-android-phone-latest-tips-for-202n/"><u>Guide to Enabling Image Sync Between Your iPhone and Android Phone - Latest Tips for 202N</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-the-ultimate-list-watching-nba-in-real-time/"><u>In 2024, The Ultimate List Watching NBA in Real-Time</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/pasos-faciles-y-claros-para-realizar-copia-de-seguridad-completa-en-tu-outlook-365/"><u>Pasos Fáciles Y Claros Para Realizar Copia De Seguridad Completa en Tu Outlook 365</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/samsung-t7/"><u>Samsung T7 原始工具详解及便捷替代方案</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/schnelles-und-einfaches-handbuch-zur-wiederherstellung-von-daten-aus-der-cloud/"><u>Schnelles Und Einfaches Handbuch Zur Wiederherstellung Von Daten Aus Der Cloud</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-potential-top-5-tools-for-optimized-wins/"><u>Unlocking Potential: Top 5 Tools for Optimized Wins</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/windows-pc-data-recovery-techniques-reviving-your-usb-flash-drive/"><u>Windows PC Data Recovery Techniques - Reviving Your USB Flash Drive</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/zugang-zu-ihren-daten-vereinfachen-schneller-export-von-sql-datensatzen/"><u>Zugang Zu Ihren Daten Vereinfachen: Schneller Export Von SQL-Datensätzen</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-innovative-techniques-to-enhance-your-obs-broadcasts-android/"><u>[Updated] Innovative Techniques to Enhance Your OBS Broadcasts (Android)</u></a></li>
+<li><a href="https://article-files.techidaily.com/advanced-tips-for-podcast-feeds-and-rss-integration-for-2024/"><u>Advanced Tips for Podcast Feeds and RSS Integration for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/behebt-die-fehlerbehebung-von-windows-amoynebzbk-die-sicherungsgrosse-wird-mit-null-byte-aufgefuhrt/"><u>Behebt Die Fehlerbehebung Von Windows Amoynebzbk: Die Sicherungsgröße Wird Mit Null Byte Aufgeführt</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/comment-retrouver-votre-sauvegarde-de-fallout-n-4-sur-pc-methodes-rapides-pour-recuperer-ses-donnees/"><u>Comment Retrouver Votre Sauvegarde De Fallout N 4 Sur PC: Méthodes Rapides Pour Récupérer Ses Données</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/comprehensive-walkthrough-on-uploading-and-storing-video-content-in-icloud-safely/"><u>Comprehensive Walkthrough on Uploading and Storing Video Content in iCloud Safely</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/decouvrir-les-restrictions-de-sauvegarde-windows-server-ainsi-que-ses-alternatives-superieures/"><u>Découvrir Les Restrictions De Sauvegarde Windows Server Ainsi Que Ses Alternatives Supérieures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/embark-on-a-new-journey-with-vision-pros-travel-functionality-essential-pre-trip-information-covered/"><u>Embark on a New Journey with Vision Pro's Travel Functionality: Essential Pre-Trip Information Covered!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-videos-vertical-or-horizontal-for-2024/"><u>Facebook Videos; Vertical or Horizontal for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-guide-perfect-steps-to-convert-and-import-mov-files-into-windows-movie-maker/"><u>Free Guide: Perfect Steps to Convert & Import MOV Files Into Windows Movie Maker</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-leading-top-5-agile-and-lightweight-cameras-list/"><u>In 2024, Leading Top 5 Agile and Lightweight Cameras List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-zoom-for-your-videos-top-10-editor-guide/"><u>In 2024, Optimal Zoom for Your Videos - Top 10 Editor Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-navigating-through-the-top-choices-for-mac-mp3-metadata-manipulators/"><u>New 2024 Approved Navigating Through the Top Choices for Mac MP3 Metadata Manipulators</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/soluzione-rapida-per-ripristinare-la-configurazione-di-windows-11-quando-si-blocca/"><u>Soluzione Rapida per Ripristinare La Configurazione Di Windows 11 Quando Si Blocca</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/step-by-step-tutorial-on-executing-fundamental-data-sync-operations-in-aomei-backupper/"><u>Step-by-Step Tutorial on Executing Fundamental Data Sync Operations in AOMEI Backupper</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/pchddssd/"><u>デスクトップPCにおけるHDDとSSDのハードウェア切り換えガイド</u></a></li>
 </ul></div>
 

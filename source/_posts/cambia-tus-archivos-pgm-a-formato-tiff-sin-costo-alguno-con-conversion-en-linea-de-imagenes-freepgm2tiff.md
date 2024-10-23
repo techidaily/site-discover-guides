@@ -1,7 +1,7 @@
 ---
 title: Cambia Tus Archivos PGM a Formato TIFF Sin Costo Alguno Con Conversión en Línea De Imágenes - FreePGM2TIFF
-date: 2024-10-12T18:09:15.800Z
-updated: 2024-10-17T17:13:20.532Z
+date: 2024-10-20T16:28:38.959Z
+updated: 2024-10-23T16:47:03.398Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742138202a2ce5d3d561a1baf2.jpg
@@ -176,20 +176,27 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
-Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
 ### Régler les paramètres graphiques d'un jeu
 
@@ -217,9 +224,23 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -262,10 +283,10 @@ Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérabl
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Réglez les paramètres de vos effets visuels
@@ -283,13 +304,6 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
@@ -318,13 +332,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 4. Mode faible latence : Activez-le.
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
 
@@ -358,6 +365,13 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
@@ -365,13 +379,6 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -396,13 +403,6 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -437,18 +437,18 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
@@ -459,6 +459,13 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -559,13 +566,6 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -601,20 +601,17 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-manuals.techidaily.com/1-no-cost-online-conversion-transforming-ts-files-into-avi-with-moveavi/"><u>1. No Cost Online Conversion: Transforming TS Files Into AVI with Moveavi</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-quick-steps-for-recording-insta-stories/"><u>2024 Approved Quick Steps for Recording Insta Stories</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-video-capture-perfection-achieving-silence-success/"><u>2024 Approved Video Capture Perfection Achieving Silence Success</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/clonerzilla-le-meilleur-logiciel-free-de-copie-de-cartes-sd-guide-complet-and-facile-dutilisation/"><u>Clonerzilla : Le Meilleur Logiciel Free De Copie De Cartes SD - Guide Complet & Facile D'Utilisation!</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/complete-guide-to-recovering-lost-data-on-windows-11-10-8-and-7/"><u>Complete Guide to Recovering Lost Data on Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/kid-friendly-amazon-fire-hd-10-tablet-review-top-choice-for-parents-peace-of-mind/"><u>Kid-Friendly Amazon Fire HD 10 Tablet Review: Top Choice for Parent's Peace of Mind</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/llama-3-and-gpt-4-face-off-determining-the-superior-ai/"><u>Llama 3 and GPT-4 Face-Off: Determining the Superior AI</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/lost-your-windows-11-recycle-bin-discover-these-7-effective-fixes-now/"><u>Lost Your Windows 11 Recycle Bin? Discover These 7 Effective Fixes Now!</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/mastering-system-preparation-with-sysprep-on-windows-11-a-comprehensive-walkthrough/"><u>Mastering System Preparation with Sysprep on Windows 11: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/optimierte-datensicherungsstrategie-mit-dem-wbadmin-tool-in-microsoft-windows-systemen/"><u>Optimierte Datensicherungsstrategie Mit Dem WBAdmin Tool in Microsoft Windows Systemen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-the-feeling-of-inadequacy-in-your-career-strategies-for-boosting-self-assuredness/"><u>Overcoming the Feeling of Inadequacy in Your Career - Strategies for Boosting Self-Assuredness</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/quintessential-preview-reels-set/"><u>Quintessential Preview Reels Set</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/reignite-your-login-the-ultimate-guide-to-reviving-passwords-in-windows-11-for-hp-stream-laptops/"><u>Reignite Your Login: The Ultimate Guide to Reviving Passwords in Windows 11 for HP Stream Laptops</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/study-hard-save-more-how-students-can-benefit-from-youtube-premium-discounts/"><u>Study Hard, Save More: How Students Can Benefit From YouTube Premium Discounts</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-unresponsive-touchpad-windows-10-solutions/"><u>Troubleshooting the Unresponsive Touchpad: Windows 10 Solutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-tips-for-effective-mov-storage-in-windows-10/"><u>[New] Essential Tips for Effective .mov Storage in Windows 10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-transfer-video-from-youtube-to-dailymotion-for-2024/"><u>[Updated] How to Transfer Video From YouTube to Dailymotion for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-prime-list-best-free-video-transcript-harvesters/"><u>[Updated] In 2024, Prime List Best Free Video Transcript Harvesters</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-packaging-to-prowess-marketings-unboxed-secrets/"><u>[Updated] Packaging to Prowess Marketing's Unboxed Secrets</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-v29-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on V29.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-mini-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 mini by restoring it to factory settings</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-nokia-150-2023-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Nokia 150 (2023) Data? | Dr.fone</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/maximize-speeds-on-dell-xps-7002-a-comprehensive-guide-to-ssd-enhancement/"><u>Maximize Speeds on Dell XPS 7002: A Comprehensive Guide to SSD Enhancement</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-voicemicrophone-problems-during-warzone-matches-on-pc-and-consoles/"><u>Step-by-Step Fixes for Voice/Microphone Problems During Warzone Matches on PC and Consoles</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/step-by-step-guide-restoring-your-data-after-a-windows-system-crash/"><u>Step-by-Step Guide: Restoring Your Data After a Windows System Crash</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/strategi-bebaskan-file-anda-dari-automatic-deletion-oleh-antivirus-norton/"><u>Strategi Bebaskan File Anda Dari Automatic Deletion Oleh Antivirus Norton</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/systemwiederherstellungs-schlussel-von-asus-authentische-schlussel-zum-ausfuhren-der-systemreparatur-auf-ihrem-laptop-oder-desktop/"><u>Systemwiederherstellungs-Schlüssel Von Asus: Authentische Schlüssel Zum Ausführen Der Systemreparatur Auf Ihrem Laptop Oder Desktop</u></a></li>
 </ul></div>
 
