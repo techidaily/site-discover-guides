@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Back Up Your Files on External Hard Drive Using Windows
-date: 2024-10-18T16:31:41.982Z
-updated: 2024-10-23T16:33:53.358Z
+date: 2024-10-25T16:07:07.695Z
+updated: 2024-10-29T00:21:25.785Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056b7a7373daee332b511aa58b.jpg
@@ -50,16 +50,10 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -82,6 +76,13 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -101,16 +102,10 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
@@ -164,10 +159,10 @@ Passo 3\. Installa gli Aggiornamenti:
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
@@ -196,13 +191,6 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -222,13 +210,6 @@ Scegli una destinazione per il backup e personalizza le impostazioni se necessar
 Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
@@ -274,6 +255,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -282,20 +270,14 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -312,21 +294,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-innovative-techniques-to-enhance-your-obs-broadcasts-android/"><u>[Updated] Innovative Techniques to Enhance Your OBS Broadcasts (Android)</u></a></li>
-<li><a href="https://article-files.techidaily.com/advanced-tips-for-podcast-feeds-and-rss-integration-for-2024/"><u>Advanced Tips for Podcast Feeds and RSS Integration for 2024</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/behebt-die-fehlerbehebung-von-windows-amoynebzbk-die-sicherungsgrosse-wird-mit-null-byte-aufgefuhrt/"><u>Behebt Die Fehlerbehebung Von Windows Amoynebzbk: Die Sicherungsgröße Wird Mit Null Byte Aufgeführt</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/comment-retrouver-votre-sauvegarde-de-fallout-n-4-sur-pc-methodes-rapides-pour-recuperer-ses-donnees/"><u>Comment Retrouver Votre Sauvegarde De Fallout N 4 Sur PC: Méthodes Rapides Pour Récupérer Ses Données</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/comprehensive-walkthrough-on-uploading-and-storing-video-content-in-icloud-safely/"><u>Comprehensive Walkthrough on Uploading and Storing Video Content in iCloud Safely</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/decouvrir-les-restrictions-de-sauvegarde-windows-server-ainsi-que-ses-alternatives-superieures/"><u>Découvrir Les Restrictions De Sauvegarde Windows Server Ainsi Que Ses Alternatives Supérieures</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/embark-on-a-new-journey-with-vision-pros-travel-functionality-essential-pre-trip-information-covered/"><u>Embark on a New Journey with Vision Pro's Travel Functionality: Essential Pre-Trip Information Covered!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/facebook-videos-vertical-or-horizontal-for-2024/"><u>Facebook Videos; Vertical or Horizontal for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-guide-perfect-steps-to-convert-and-import-mov-files-into-windows-movie-maker/"><u>Free Guide: Perfect Steps to Convert & Import MOV Files Into Windows Movie Maker</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-leading-top-5-agile-and-lightweight-cameras-list/"><u>In 2024, Leading Top 5 Agile and Lightweight Cameras List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimal-zoom-for-your-videos-top-10-editor-guide/"><u>In 2024, Optimal Zoom for Your Videos - Top 10 Editor Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-navigating-through-the-top-choices-for-mac-mp3-metadata-manipulators/"><u>New 2024 Approved Navigating Through the Top Choices for Mac MP3 Metadata Manipulators</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/soluzione-rapida-per-ripristinare-la-configurazione-di-windows-11-quando-si-blocca/"><u>Soluzione Rapida per Ripristinare La Configurazione Di Windows 11 Quando Si Blocca</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/step-by-step-tutorial-on-executing-fundamental-data-sync-operations-in-aomei-backupper/"><u>Step-by-Step Tutorial on Executing Fundamental Data Sync Operations in AOMEI Backupper</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/pchddssd/"><u>デスクトップPCにおけるHDDとSSDのハードウェア切り換えガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-8-free-online-courses-for-beginner-youtube-creators/"><u>[New] 2024 Approved 8 Free Online Courses for Beginner YouTube Creators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-premier-livestream-networks-you-need-to-watch/"><u>2024 Approved The Premier Livestream Networks You Need To Watch</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-tips-for-recording-high-quality-mov-video-on-windows-11/"><u>2024 Approved Tips for Recording High-Quality MOV Video on Windows 11</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1726218342705-mkv-aac-movavi/"><u>網路上自由更改 MKV 影片成 AAC格式 - 使用 Movavi 編解碼工具</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypass-the-stall-essential-tricks-for-skipping-past-forza-horizon-5s-loading-loop/"><u>Bypass the Stall: Essential Tricks for Skipping Past Forza Horizon 5'S Loading Loop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-download-the-ultimate-behringer-usb-audio-controller-drivers/"><u>Direct Download – The Ultimate Behringer USB Audio Controller Drivers</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/downloadable-solutions-for-quick-and-hassle-free-rmvb-to-mp4-file-transformation-by-moveavi/"><u>Downloadable Solutions for Quick & Hassle-Free RMVB to MP4 File Transformation by Moveavi</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/free-conversion-change-typescript-ts-files-into-mp4-videos-online-with-movavi/"><u>Free Conversion: Change TypeScript (TS) Files Into MP4 Videos Online with Movavi</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 15 Pro Max to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209548353-9781785357817-living-on-the-inner-edge/"><u>Living on the Inner Edge | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-msvcrt120dll-on-your-computer/"><u>Overcoming Missing Msvcrt120dll on Your Computer</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/scarica-e-converte-mkvm2ts-o-avi-in-mp4-gratuito-online-movavi/"><u>Scarica E Converte MKV/M2TS O AVI in MP4 Gratuito Online - Movavi</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/transformar-mp4-a-wmv-sin-gastos-guia-para-usar-servicios-de-conversion-en-linea-gratuitos/"><u>Transformar MP4 a WMV Sin Gastos: Guía Para Usar Servicios De Conversión en Línea Gratuitos</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/movavi-au-wmv/"><u>オンラインで簡単にセットアップ！ - Movavi AU WMVフリー変換サービス</u></a></li>
 </ul></div>
 
