@@ -1,7 +1,7 @@
 ---
 title: "Movavi Photo Editor: Masterclass in Turning Grayscale Images Vibrant With Easy Coloring Techniques"
-date: 2024-11-01T05:15:08.537Z
-updated: 2024-11-03T17:34:50.116Z
+date: 2024-11-07T06:29:04.725Z
+updated: 2024-11-12T22:10:12.715Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10fcab5198bc36f19c430691c.jpg
@@ -156,6 +156,13 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -165,13 +172,6 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
@@ -217,6 +217,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -242,13 +249,6 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -283,13 +283,6 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
@@ -331,6 +324,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'accélération de la souris
 
 Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en matière de jeu, mais il s'agit plutôt d'un conseil pour vous permettre d'améliorer vos performances personnelles en matière de jeu. L'accélération de la souris est un paramètre qui fait bouger votre souris en se basant non seulement sur la détection des mouvements physiques mais aussi sur la vitesse. Cette option rend en fait les mouvements de votre souris moins précis, car elle ajoute un paramètre supplémentaire au mouvement que vous transmettez à la souris. Étant donné que la précision est cruciale pour la précision de la visée dans les jeux de tir à la première personne, si vous êtes un fan de Call of Duty, Counter-Strike ou Overwatch, vous devriez absolument désactiver cette option.
@@ -358,6 +358,13 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -417,10 +424,10 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Cliquez sur **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -451,13 +458,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -503,6 +503,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
 Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voici une liste de raisons que vous pouvez vérifier :
@@ -523,16 +530,16 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -544,6 +551,19 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -551,20 +571,6 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -601,18 +607,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-elite-choices-top-8-tripods-for-cinematic-4k-experiences-for-2024/"><u>[New] Elite Choices Top 8 Tripods for Cinematic 4K Experiences for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-building-brands-and-bonds-on-instagram-steps-to-reach-a-thousand-followers/"><u>[New] In 2024, Building Brands and Bonds on Instagram Steps to Reach a Thousand Followers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-screen-streaming-showdown-choose-between-obs-and-shadowgl/"><u>[Updated] In 2024, Screen Streaming Showdown Choose Between OBS & ShadowGL</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-unlocking-youtubes-viewer-count-secret-weights/"><u>2024 Approved Unlocking YouTube's Viewer Count Secret Weights</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/comparaison-dvd-x-blu-ray-x-fichier-numerique-quel-format-offre-le-meilleur-rapport-qualiteprix/"><u>Comparaison DVD X Blu-Ray X Fichier Numérique - Quel Format Offre Le Meilleur Rapport Qualité/Prix?</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/download-the-leading-no-cost-dvd-ripper-programs-for-windows-win10win11-ranked-1-to-3-of-2024/"><u>Download the Leading No-Cost DVD Ripper Programs for Windows (Win10/Win11) – Ranked #1 to #3 of 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhance-performance-overcome-lagging-and-increase-fps-for-a-smooth-rdr2-gameplay/"><u>Enhance Performance: Overcome Lagging and Increase FPS for a Smooth RDR2 Gameplay</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/flac-audio-streaming-and-conversion-with-plex-media-server/"><u>FLAC Audio Streaming & Conversion with Plex Media Server</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-huawei-nova-y71-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Huawei Nova Y71 to iPod | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/logiciels-de-conversion-video-et-dvd-solutions-efficaces-par-digiarty/"><u>Logiciels De Conversion Vidéo Et DVD - Solutions Efficaces Par Digiarty</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/popcorn-time-security-can-you-use-it-safely-without-a-vpn/"><u>Popcorn Time Security: Can You Use It Safely Without a VPN?</u></a></li>
-<li><a href="https://win-premium.techidaily.com/top-7-techniques-to-resolve-undetected-dvd-drives-on-windows-11/"><u>Top 7 Techniques to Resolve Undetected DVD Drives on Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/walkman-wm-x900-music-connoisseurs-choice/"><u>Walkman WM-X900: Music Connoisseur's Choice</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/raft-compelling-content-essential-youtube-short-video-edits/"><u>[New] Craft Compelling Content Essential Youtube Short Video Edits</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-optimal-2024-cloud-services-for-minimum-spend/"><u>[New] Optimal 2024 Cloud Services for Minimum Spend</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-refine-your-recordings-the-art-of-sound-reduction/"><u>[Updated] Refine Your Recordings The Art of Sound Reduction</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-c-span-broadcasts-unlocked-tips-for-fee-free-download/"><u>2024 Approved C-Span Broadcasts Unlocked Tips for Fee-Free Download</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/cambiar-de-formato-arw-a-jpeg-online-sin-coste-movavi/"><u>Cambiar De Formato ARW a JPEG Online Sin Coste: Movavi</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/convertir-archivos-flac-al-formato-mp3-sin-coste-guia-rapida-con-movavi/"><u>Convertir Archivos FLAC Al Formato MP3 Sin Coste - Guía Rápida Con Movavi</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/eficiente-transformacion-de-archivos-como-convertir-imagenes-webp-en-formato-png-con-herramientas-faciles-de-uso/"><u>Eficiente Transformación De Archivos: Cómo Convertir Imágenes WebP en Formato PNG Con Herramientas Fáciles De Uso</u></a></li>
+<li><a href="https://article-posts.techidaily.com/essentials-of-the-premier-6-harnesses-for-capturing-lifes-moments-with-gopro-for-2024/"><u>Essentials of the Premier 6 Harnesses for Capturing Life's Moments with GOPRO for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-redmi-note-12-4g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Redmi Note 12 4G Screen | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/stardews-guide-ginger-isle-essentials-for-2024/"><u>Stardew's Guide Ginger Isle Essentials for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/telechargement-de-logiciels-multimedias-centre-dassistance-en-ligne-pour-loutil-de-copie-de-films-sur-dvd-winx/"><u>Téléchargement De Logiciels Multimédias : Centre D'assistance en Ligne Pour L’outil De Copie De Films Sur DVD WinX</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/top-direct-movie-and-tv-show-downloads-find-legitimate-options-without-torrents/"><u>Top Direct Movie and TV Show Downloads: Find Legitimate Options Without Torrents</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/ultimate-diy-building-the-perfect-wedding-photo-montage/"><u>Ultimate DIY: Building the Perfect Wedding Photo Montage</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/ultimate-guide-downsizing-and-upscaling-videos-with-handbrake-a-comprehensive-tutorial/"><u>Ultimate Guide: Downsizing and Upscaling Videos with Handbrake - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/wlmpmp4avimov/"><u>WLMPデータを効率よくMP4/AVI/MOVにアップコンバートするテクニック</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/tsv/"><u>マルチメディアファイルにTSVを転換するためのプロセスとヒント</u></a></li>
 </ul></div>
 

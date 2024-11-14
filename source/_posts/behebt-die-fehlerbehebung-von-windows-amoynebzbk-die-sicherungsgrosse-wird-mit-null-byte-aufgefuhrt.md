@@ -1,7 +1,7 @@
 ---
 title: "Behebt Die Fehlerbehebung Von Windows Amoynebzbk: Die Sicherungsgröße Wird Mit Null Byte Aufgeführt"
-date: 2024-10-30T22:58:08.080Z
-updated: 2024-11-04T02:52:09.126Z
+date: 2024-11-11T17:28:04.882Z
+updated: 2024-11-12T17:50:25.885Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/9304676ddebde0491fac069817e2e83439806cdb3bbe061f637b22cd4655ca5f.jpg
@@ -60,6 +60,13 @@ In a word, if you want to make an image back for your computer or want to clone 
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Image Your Computer with Norton Ghost
 
 1\. Install Norton Ghost and open it. It will run a step-by-step wizard the first time you open it. At last, you will see the **Easy Setup** interface where you can create a backup at once. You can also click the **Cancel** option and set the backup task later.
@@ -67,13 +74,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 2\. On the Home screen, you can create a backup task by clicking **Define Backup Wizard** or **Run or Manage Backups**. Here we choose the latter one.
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. The **Easy Setup** screen will appear.
 
@@ -114,13 +114,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best Free Alternative to Norton Ghost
 
 [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) is one backup, restore and clone software designed for Windows users. Support all Windows OS including Windows 11/10/8.1/8/7\. It offers more powerful functions compared to Norton Ghost, and it’s free.
@@ -142,13 +135,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -164,10 +150,10 @@ Select the corresponding backup methods if you want to backup system, partition 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
@@ -178,6 +164,13 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Restore Disk & Files
 
@@ -192,23 +185,30 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Clone Hard Drive
 
 You can directly clone hard drive to another one with the **[Disk Clone](https://tools.techidaily.com/ubackup/products/)** feature. If you are cloning HDD to SSD, you can make use of the "**SSD Alignment**" feature to improve the read/write speed of the destination SSD.
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 👉 **Notes:** 
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -217,13 +217,6 @@ That’s all for how to use Norton Ghost 15\. Indeed Norton Ghost is a good tool
 For backup and restore features, you have 4 corresponding options plus two premium features - Universal Restore and Explore Image. It helps to perform dissimilar hardware restore for system or disk and restore files from other backup types, such as, system, disk, or partition. 
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQs about Norton Ghost
 
@@ -252,15 +245,22 @@ Was the provided information useful? Your vote is important to us!
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -282,13 +282,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -296,6 +289,13 @@ Safeguard any data of your computer with backup, sync and clone.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -314,18 +314,17 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-decoding-best-practices-navigating-through-top-9-free-logo-creators/"><u>[New] 2024 Approved Decoding Best Practices Navigating Through Top 9 Free Logo Creators</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-professionally-recording-every-aspect-of-your-ppt-presentations/"><u>[New] 2024 Approved Professionally Recording Every Aspect of Your PPT Presentations</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-reestablishing-communication-with-a-non-responsive-obs-cam-for-2024/"><u>[Updated] Reestablishing Communication with a Non-Responsive OBS Cam for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-get-windows-photo-viewer-running-smoothly-on-win-11/"><u>2024 Approved How to Get Windows Photo Viewer Running Smoothly on Win 11</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/windows10dvd5/"><u>最新！Windows10に対応したダイレクトDVDコピーソフト5選の比較と使用法紹介【フリー版・すぐ利用可能】</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1725286143318-dvd/"><u>DVDへのビデオコピー入手ガイド：予算なしで全ての映像素材を保存する</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/initiating-narration-mode-on-windows-11-pc/"><u>Initiating Narration Mode on Windows 11 PC</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/schritt-fur-schritt-anleitung-handbrake-erfolgreich-auf-windows-7-8-10-oder-vista-betreiben/"><u>Schritt-Für-Schritt-Anleitung: HandBrake Erfolgreich Auf Windows 7, 8, 10 Oder Vista Betreiben</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/solving-dvd-decrypter-malfunctions-overcoming-failed-to-set-data-issues/"><u>Solving DVD Decrypter Malfunctions: Overcoming 'Failed to Set Data' Issues</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/transform-blu-rays-and-dvds-into-superior-mkv-format-using-makemkv-tool/"><u>Transform Blu-Rays & DVDs Into Superior MKV Format Using MakeMKV Tool</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/verzerrtes-video-wiederherstellen-mit-handbrake-unter-windows-10-eine-schritt-fur-schritt-anleitung/"><u>Verzerrtes Video Wiederherstellen Mit HandBrake Unter Windows 10 - Eine Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://extra-information.techidaily.com/windows-10-audible-tactics-top-5-list/"><u>Windows 10 Audible Tactics - Top 5 List</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-screen-sanctuary-your-haven-of-a-thousand-games/"><u>[New] 2024 Approved Screen Sanctuary Your Haven of a Thousand Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-creativity-10-top-rated-free-mac-art-software/"><u>[New] Unleash Creativity 10 Top-Rated, FREE Mac Art Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-decoding-silent-snapchat-user-possible-block-for-2024/"><u>[Updated] Decoding Silent Snapchat User Possible Block for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138566230-9781401922634-adventures-of-a-psychic/"><u>Adventures of a Psychic | Free Book</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/descubre-las-herramientas-para-grabar-tu-primer-video-casero-desde-cualquier-lugar-con-gratuidad-incondicional/"><u>Descubre Las Herramientas Para Grabar Tu Primer Video Casero Desde Cualquier Lugar Con Gratuidad Incondicional</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-converting-ms-video-files-into-imovie-edits-for-enhanced-visual-storytelling/"><u>Guide: Converting MS Video Files Into iMovie Edits for Enhanced Visual Storytelling</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/hoewelachtige-methoden-om-schermotten-te-regelen-in-windows-11-de-oplossingen/"><u>Hoewelachtige Methoden Om Schermotten Te Regelen in Windows 11: De Oplossingen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/top-12-kostenlosa-mp3-konverter-for-windows-11-8-7-movavi/"><u>TOP 12 Kostenlösa MP3 Konverter För Windows 11, 8, 7 - Movavi</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/flv-and-mkv-movavi/"><u>온라인 제공 FLV & MKV 변환 - Movavi: 비용 없이 자유롭게 클린</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/vobflacmovavi/"><u>オンラインでも簡単！無料VOBファイルをFLACに変換：Movaviのステップバイステップガイド</u></a></li>
 </ul></div>
 

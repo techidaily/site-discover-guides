@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Mastering Minecraft Gameplay Capture on Windows Using Movavi Software"
-date: 2024-10-29T02:21:16.433Z
-updated: 2024-11-04T03:06:17.196Z
+date: 2024-11-11T01:51:54.459Z
+updated: 2024-11-12T17:57:19.379Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/f946d84f254099655a6b886de29d65e5f587fa0ecc62cec124a4f1eb3cdbb6d6.jpg
@@ -156,13 +156,6 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -182,6 +175,13 @@ Le PC surpasse les consoles à cet égard, car il est toujours possible d'accél
 Cet article vous présente les réglages de performance pour les jeux que vous pouvez effectuer sur Windows 10 pour améliorer votre expérience de jeu.
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -229,13 +229,6 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 Utiliser le mode de jeu Windows 10
@@ -267,6 +260,13 @@ Pour définir vos heures actives, appuyez sur la   **touche Windows** \+ **I**, 
 Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérablement, de sorte que vous ne pouvez pas définir une heure de repos spécifique, nous vous conseillons (en plus de changer vos habitudes de sommeil) de vous assurer que Windows vous rappelle chaque fois qu'il voudra redémarrer afin que, si cela se produit pendant que vous jouez, vous puissiez toujours le retarder.
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réglez les paramètres de vos effets visuels
 
@@ -312,13 +312,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -339,6 +332,13 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -352,15 +352,22 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -371,13 +378,6 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -396,13 +396,6 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -437,13 +430,6 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -470,15 +456,22 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -533,6 +526,19 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -601,22 +607,20 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-camsphere-exploration-what-else-can-we-see/"><u>[New] CamSphere Exploration What Else Can We See?</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1-resolving-the-issue-why-windows-media-player-fails-to-play-mp4-files-now/"><u>1. Resolving the Issue: Why Windows Media Player Fails to Play MP4 Files Now</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1726029602176-windows-10/"><u>無料ツールを使用して Windows 10 上でのストリーミングオーディオキャプチャ: 手順ガイド</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/quick-formatfull-format/"><u>詳しく見た！Quick FormatとFull Formatの違いを比較検討：包括的な分析</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/aacmp36/"><u>AACファイルをMP3に自由に変換するための上位6つの無料プログラムレビュー</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artwork-defense-techniques-against-ai-invasion-with-nightshade-solutions/"><u>Artwork Defense Techniques Against AI Invasion with Nightshade Solutions</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/effortless-access-dive-into-taylor-swifts-melodies-with-secure-mp3-downloads/"><u>Effortless Access: Dive Into Taylor Swift's Melodies with Secure MP3 Downloads</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-poco-m6-pro-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Poco M6 Pro 4G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-11-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 11 and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-moto-g-with-stylus-exceptional-performance-and-solid-battery/"><u>In-Depth Analysis of Moto G with Stylus - Exceptional Performance & Solid Battery</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/linguistic-legends-ai-translation-faceoff/"><u>Linguistic Legends: AI Translation Faceoff</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/mastering-file-synchronization-with-rsync-on-windows-11-a-comprehensive-guide/"><u>Mastering File Synchronization with Rsync on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1726028167645-nhk/"><u>NHKラジオの聞き逃し音源を簡単にダウンロードする方法</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/the-ultimate-guide-transforming-dvd-audio-tracks-into-mp3-format-4-steps-inside/"><u>The Ultimate Guide: Transforming DVD Audio Tracks Into MP3 Format - 4 Steps Inside!</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1726028966025-youtube/"><u>YouTube再生リストで繰り返し見るための効果的なテクニック</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/44ki44kk5pio556t44gr6kal44ke44gz44ge44ot44oh44kq55s76z2i44g444gu5asj5pu05pa55rov/"><u>より明瞭に見やすいビデオ画面への変更方法</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-smooth-volume-reduction-a-system-friendly-approach/"><u>[Updated] In 2024, Smooth Volume Reduction A System-Friendly Approach</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-key-fixes-for-stabilizing-windows-10-photos-display/"><u>2024 Approved Key Fixes for Stabilizing Windows 10 Photos Display</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/gmailoutlook-seo/"><u>仕事関連メールをGmail、Outlookで安全に保存する技術ガイド - SEO向上</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/add-auditory-components-to-premiere-pro-videos/"><u>Add Auditory Components to Premiere Pro Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-assistance-in-crafting-professional-resumes-tips-and-tricks-with-chatgpt/"><u>AI Assistance in Crafting Professional Résumés: Tips & Tricks with ChatGPT</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/behebt-die-fehlerbehebung-von-windows-amoynebzbk-die-sicherungsgrosse-wird-mit-null-byte-aufgefuhrt/"><u>Behebt Die Fehlerbehebung Von Windows Amoynebzbk: Die Sicherungsgröße Wird Mit Null Byte Aufgeführt</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/comment-retrouver-votre-sauvegarde-de-fallout-n-4-sur-pc-methodes-rapides-pour-recuperer-ses-donnees/"><u>Comment Retrouver Votre Sauvegarde De Fallout N 4 Sur PC: Méthodes Rapides Pour Récupérer Ses Données</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/decouvrir-les-restrictions-de-sauvegarde-windows-server-ainsi-que-ses-alternatives-superieures/"><u>Découvrir Les Restrictions De Sauvegarde Windows Server Ainsi Que Ses Alternatives Supérieures</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-counter-net-requirement-complaints-in-windows/"><u>How to Counter .NET Requirement Complaints in Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-v2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic V2 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-geforce-rtx-3080-ti-driver-download-for-win-10-8-7/"><u>Latest GeForce RTX 3080 Ti Driver Download for Win 10, 8, 7</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/soluzione-rapida-per-ripristinare-la-configurazione-di-windows-11-quando-si-blocca/"><u>Soluzione Rapida per Ripristinare La Configurazione Di Windows 11 Quando Si Blocca</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/pchddssd/"><u>デスクトップPCにおけるHDDとSSDのハードウェア切り換えガイド</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/44or44k944kz44oz5zwp6agm44k844ot5yyw77ya44kv44op44km44oj44oq44od44kv44ki44od44ox44gn5pyq5p2l44ks5a6i44kl5pa55rov/"><u>パソコン問題ゼロ化：クラウドバックアップで未来を守る方法</u></a></li>
 </ul></div>
 

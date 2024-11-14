@@ -1,7 +1,7 @@
 ---
 title: Guida Completa Alla Realizzazione Dello Studio Stop Motion in Sette Fasi Chiave, Con Tutorial Movavi
-date: 2024-10-29T17:15:42.433Z
-updated: 2024-11-04T02:37:05.416Z
+date: 2024-11-10T16:26:30.510Z
+updated: 2024-11-13T02:12:35.457Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2334e4827cc51dbf7be6e12c.jpg
@@ -156,6 +156,13 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -181,6 +188,13 @@ Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
@@ -210,6 +224,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -227,6 +248,13 @@ Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -266,6 +294,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
@@ -298,13 +333,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -331,18 +359,18 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 ### Optez pour un SSD
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
@@ -351,13 +379,6 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -372,13 +393,6 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -423,31 +437,11 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
@@ -467,6 +461,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -502,6 +503,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -550,13 +558,6 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -564,13 +565,6 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -607,20 +601,18 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-stealthy-methods-to-watch-unseen-stories/"><u>[New] In 2024, Stealthy Methods to Watch Unseen Stories</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-review-of-facetunes-latest-updates/"><u>[Updated] Comprehensive Review of Facetune's Latest Updates</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-enhance-your-presentations-with-aiseesofts-screencast-tools/"><u>[Updated] In 2024, Enhance Your Presentations with Aiseesoft's Screencast Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/44cm5yuv55s76kaw6ig05l2t6ait5zcr5lik77ya55s76z2i5pio5bqm5lil44gs44gu57ch5y2y5pa55rov44cn/"><u>「動画視聴体験向上：画面明度下げの簡単方法」</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-poetry-top-10-writing-tools-for-image-capture-on-iosandroid/"><u>2024 Approved Photo Poetry Top 10 Writing Tools for Image Capture on iOS/Android</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/dvdtype-c-usb-surface-hubmacbook-chromebook-pixel/"><u>如何運送DVD影片給支援Type-C USB接頭的 Surface Hub、MacBook 和 Chromebook Pixel？</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1725285639024-2024dvd-windows-1011/"><u>最新推荐的2024熱門無需付錢DVD播放器驅動程式 - Windows 10/11用户指南</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-your-dell-camera-up-and-running-again-on-windows-pcs-top-fixes-revealed/"><u>Get Your Dell Camera Up and Running Again on Windows PCs – Top Fixes Revealed!</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/instale-el-mejor-software-de-reproduccion-de-dvd-en-windows-11-sin-coste-acceda-a-la-copia-libre-aqui/"><u>Instale El Mejor Software De Reproducción De DVD en Windows 11 Sin Coste - Acceda a La Copia Libre Aquí</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/mastering-media-efficacious-strategies-for-changing-h2exe-to-h264-videos-without-size-restrictions/"><u>Mastering Media: Efficacious Strategies for Changing H.2eXE-to-H.264 Videos Without Size Restrictions</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/mp4iso/"><u>MP4ファイルをISO形式に容易に自由に変換する方法 - 各環境で実行</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/refund-process-and-terms-for-winxdvd-program-digitarty-official/"><u>Refund Process and Terms for WinXDVD Program - DigitArty Official</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/seamless-techniques-to-share-your-screen-on-google-meet-for-2024/"><u>Seamless Techniques to Share Your Screen on Google Meet for 2024</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/solving-the-directory-name-is-invalid-issue-in-dvd-drives-fix-guide-for-windows-11-and-10-users/"><u>Solving the 'Directory Name Is Invalid' Issue in DVD Drives: Fix Guide for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/top-11-dvd-ripper-apps-for-macos-free-and-premium-options-explored/"><u>Top 11 DVD Ripper Apps for macOS: Free and Premium Options Explored</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-visualquilt-maker-macos-photoplusvideo-display/"><u>[New] In 2024, VisualQuilt Maker MacOS Photo+Video Display</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-break-down-long-form-videos-the-insiders-guide-to-youtube-chapter-inclusion/"><u>[Updated] 2024 Approved Break Down Long-Form Videos The Insider's Guide to YouTube Chapter Inclusion</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-required-video-aspect-ratios-explained/"><u>[Updated] In 2024, Twitter's Required Video Aspect Ratios Explained</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/m4rogg-movavi/"><u>快速在線M4R/OGG間轉換，網路上免費服務 - Movavi音頻變更器</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-easily-syncing-your-logitech-mouse/"><u>Expert Tips on Easily Syncing Your Logitech Mouse</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-new-horizon-with-apple-watch-series-8-official-debut-date-features-pricing-insights-and-breaking-news/"><u>Exploring the New Horizon with Apple Watch Series 8 - Official Debut Date, Features, Pricing Insights, and Breaking News</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/ganhe-tecnicas-de-filmagem-em-camera-lenta-com-o-app-movavi-clips-uma-receita-simples-e-facil-para-android/"><u>Ganhe Técnicas De Filmagem Em Câmera Lenta Com O App Movavi Clips: Uma Receita Simples E Fácil Para Android</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/gunstig-konvertieren-sie-ihre-mov-dateien-in-das-kompatible-und-effiziente-ogv-format-mit-movavis-online-dienst/"><u>Günstig Konvertieren Sie Ihre MOV Dateien in Das Kompatible Und Effiziente OGV-Format Mit Movavi's Online-Dienst</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/movavi-photo-editor-masterclass-in-turning-grayscale-images-vibrant-with-easy-coloring-techniques/"><u>Movavi Photo Editor: Masterclass in Turning Grayscale Images Vibrant With Easy Coloring Techniques</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/movavitrp/"><u>Movaviを使って、簡単なステップで無料オンラインTRPファイル変換</u></a></li>
+<li><a href="https://article-helps.techidaily.com/smilescreen-simple-steps-for-video-making-for-2024/"><u>SmileScreen Simple Steps for Video Making for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-moto-g14-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Moto G14</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/tout-le-monde-peut-le-faire-un-guide-complet-aux-filtres-photographiques-facilement-accessibles/"><u>Tout Le Monde Peut Le Faire : Un Guide Complet Aux Filtres Photographiques Facilement Accessibles</u></a></li>
 </ul></div>
 

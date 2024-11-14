@@ -1,7 +1,7 @@
 ---
 title: Samsung T7 原始工具详解及便捷替代方案
-date: 2024-11-01T23:58:13.232Z
-updated: 2024-11-03T18:36:35.283Z
+date: 2024-11-08T00:40:07.560Z
+updated: 2024-11-13T01:55:38.174Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a8037b9cb425e19a9ec57f5feba58cc91bfb4e98ab568e20793fc881abc0b40e.jpg
@@ -56,18 +56,18 @@ iTunes can be a good way to add ringtones to an iPhone. It can help you to custo
 
 [![](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/intercept-ringtone.png)](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/intercept-ringtone.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4\. Right-click the same song and select **Create AAC Version**.
 
 5\. Right-click the song segment and choose **Show in Windows Explorer**. Then change the extension from “.m4a” to “.m4r.”.
 
 6\. Copy the file & delete the old one.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 2\. Add custom ringtones to iPhone 7
 
@@ -80,22 +80,15 @@ iTunes can be a good way to add ringtones to an iPhone. It can help you to custo
 4\. Choose **Tones** \> **Sync** **Tones** to your iPhone 7.[![](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/drag-and-drop-the-ringtone-to-iphone.png)](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/drag-and-drop-the-ringtone-to-iphone.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **? Tips:** 
 * If the song you liked is not in the iTunes library, you can click **File** \> **Add Folder to Library** \> browse your computer and select the song you want to set as a ringtone to iTunes library.
 * If [Tones not showing in iTunes](https://tools.techidaily.com/ubackup/products/), you may need to choose another available way to make it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 2\. How to Put Ringtones on iPhone 7 via GarageBand**
 
@@ -104,13 +97,6 @@ Sometimes the song which you want to set as a ringtone stored on iPhone 7, you c
 1\. Open GarageBand on iPhone 7 > Click “+” in the top right corner > Tap **TRACKS >** Scroll down to choose **AUDIO RECORDER** interface.
 
 [![Add Ringtones With Garageband](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/phone/screenshot/en/others/iphone/add-ringtones-with-garageband.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2\. Click “+” in the top right corner > Choose **Section A** in Song Sections > Turn off **Automatic** option > Tap the arrow to change the number to 12 > Tap **Done**.
 
@@ -121,13 +107,6 @@ Sometimes the song which you want to set as a ringtone stored on iPhone 7, you c
 
 [![](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/choose-song.png)](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/choose-song.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4\. Tap and hold the song to add it to GarageBand > Use the trimming and split editing features to edit the 30 seconds ringtone.
 
 5\. Tap the downward-pointing triangular > Tap **My Songs** to save the audio you just create.
@@ -137,23 +116,16 @@ Sometimes the song which you want to set as a ringtone stored on iPhone 7, you c
 [![](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/set-a-song-as-a-ringtone-on-iphone-4.png)](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/set-a-song-as-a-ringtone-on-iphone-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **? Tips:** 
 * **Standard Ringtone**: Set the customized ringtone as standard ringtone.
 * **Standard Text Tone**: Use the ringtone as your standard text or notifications tone.
 * **Assign to contact**: Associate a ringtone with one of your contacts.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 3\. H**ow to Add Ringtones on iPhone from PC \[Recommended\]
 
@@ -163,15 +135,22 @@ What will be the easiest way to add ringtones to your iPhone, that's the profess
 ![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Easily **edit iPhone ringtones** from PC and **transfer them to your device**.  
 ![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Various audio file types can be **directly converted to m4r** and then you can directly find them in your **iPhone Settings**.  
 
-![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) **Fast transfer speed** allows you to efficiently transfer multiple audio files in a very short time.  
-![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) **Wide compatibility** lets AOMEI FoneBackup can support various iOS devices and versions including the latest ones.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) **Fast transfer speed** allows you to efficiently transfer multiple audio files in a very short time.  
+![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) **Wide compatibility** lets AOMEI FoneBackup can support various iOS devices and versions including the latest ones.
 
 Now go for it now and discover more!
 
@@ -191,6 +170,19 @@ Step 3\. Confirm the ringtones you need > Click **Start Transfer** to begin the 
 
 ![transfer ringtones from pc to iphone](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **How to Set Custom Ringtone on iPhone 7 after the Process**
 
 After you have put the newly created ringtones on your iPhone 7(Plus) with iTunes, GarageBand or AOMEI FoneBackup, you can now change your iPhone ringtone by setting a custom one in Settings. Go to **Settings** on your iPhone 7 > **Sounds & Haptics** \> **Ringtone** \> Select the ringtone you just added to your iPhone.[![Add Ringtones To Iphone Settings](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/phone/screenshot/en/others/iphone/add-ringtones-to-iphone-settings.png)
@@ -208,6 +200,19 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Dylan](https://www.ubackup.com/assets/images/author/dylan.png) 
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Dylan](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -237,6 +242,13 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Free Get FoneBackup Now
 
 One-Stop iPhone Data Backup and Transfer Solution.
@@ -262,21 +274,20 @@ One-Stop iPhone Data Backup and Transfer Solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-navigate-video-rotations-seamlessly-via-vlc/"><u>[New] Navigate Video Rotations Seamlessly via VLC</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-analyzing-youtube-shorts-economic-impact/"><u>[Updated] 2024 Approved Analyzing YouTube Shorts Economic Impact</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-guide-to-watching-fb-live-on-roku-for-2024/"><u>[Updated] The Ultimate Guide to Watching FB Live on Roku for 2024</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1725290464540-xvid/"><u>安定したXvid変換の実現：インストールから最適画質へ</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/diy-guide-updating-your-video-library-by-moving-vhs-tapes-onto-dvd-via-computer/"><u>DIY Guide: Updating Your Video Library by Moving VHS Tapes Onto DVD via Computer</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/effective-solutions-for-when-your-pc-cannot-read-or-detect-a-cddvd-drive/"><u>Effective Solutions for When Your PC Cannot Read or Detect a CD/DVD Drive</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/gratis-h264-zu-h265-konvertieren-ohne-qualitatseinbussen-kompakte-dateien-schnell-und-einfach/"><u>Gratis-H.264 Zu H.265 Konvertieren Ohne Qualitätseinbußen - Kompakte Dateien Schnell Und Einfach</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Huawei Nova Y91? | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/how-to-easily-and-accurately-transform-avi-videos-into-mp3-audio-at-no-cost-maintaining-superior-sound-quality/"><u>How to Easily and Accurately Transform AVI Videos Into MP3 Audio at No Cost – Maintaining Superior Sound Quality</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oneplus-11-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your OnePlus 11 5G Lock Screen Password</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-vsco-editors-handbook/"><u>In 2024, The Ultimate VSCO Editor's Handbook</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-scoop-on-elon-musks-robotaxi-anticipated-cost-release-date-and-specs-revealed/"><u>Inside Scoop on Elon Musk's Robotaxi - Anticipated Cost, Release Date and Specs Revealed</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/lava-storm-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Storm 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/los-mejores-convertidores-de-video-para-macos-guia-completa-gratuita-de-202e3/"><u>Los Mejores Convertidores De Vídeo Para macOS - Guía Completa Gratuita De 202E3</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/winxvideo-ai-accelerate-any-videoaudio-with-customized-speeds-using-gpu-power/"><u>Winxvideo AI: Accelerate Any Video/Audio with Customized Speeds Using GPU Power</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-spinning-tales-embracing-the-full-rotational-vision/"><u>[New] In 2024, Spinning Tales Embracing the Full Rotational Vision</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-becoming-a-color-connoisseur-top-techniques/"><u>[Updated] In 2024, Becoming a Color Connoisseur Top Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-enhance-engagement-select-best-fonts-for-your-thumbnails/"><u>[Updated] In 2024, Enhance Engagement Select Best Fonts for Your Thumbnails</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-masterpiece-narratives-across-the-eightfold-genre-spectrum/"><u>2024 Approved Masterpiece Narratives Across the Eightfold Genre Spectrum</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/comment-convertir-votre-contenu-rmvb-en-ligne-avec-movavi-une-solution-integrale-et-gratuit/"><u>Comment Convertir Votre Contenu RMVB en Ligne Avec Movavi, Une Solution Intégrale Et Gratuit</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/effortlessly-switch-from-mp4-to-wav-explore-our-no-cost-web-conversion-tool/"><u>Effortlessly Switch From MP4 to WAV - Explore Our No-Cost Web Conversion Tool!</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/ganhe-tecnicas-de-filmagem-em-camera-lenta-com-o-app-movavi-clips-uma-receita-simples-e-facil-para-android/"><u>Ganhe Técnicas De Filmagem Em Câmera Lenta Com O App Movavi Clips: Uma Receita Simples E Fácil Para Android</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-12-pro-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 12 Pro Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-analysis-complete-overhaul-of-facetune-app-for-2024/"><u>In-Depth Analysis Complete Overhaul of Facetune App for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/movavitrp/"><u>Movaviを使って、簡単なステップで無料オンラインTRPファイル変換</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-secret-sauce-for-stellar-telegram-campaigns-for-2024/"><u>The Secret Sauce for Stellar Telegram Campaigns for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/top-11-video-to-gif-transformation-tools-a-comprehensive-review-of-the-leading-platforms/"><u>Top 11 Video-to-GIF Transformation Tools: A Comprehensive Review of the Leading Platforms</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/tout-le-monde-peut-le-faire-un-guide-complet-aux-filtres-photographiques-facilement-accessibles/"><u>Tout Le Monde Peut Le Faire : Un Guide Complet Aux Filtres Photographiques Facilement Accessibles</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-honor-100-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/imovie-pc-thumbnails-in-imovie-for-windows/"><u>ฝ่ายฟ้า iMovie สำหรัง PC: ใส่ Thumbnails in iMovie for Windows ด้วยความสะดวก</u></a></li>
 </ul></div>
 
