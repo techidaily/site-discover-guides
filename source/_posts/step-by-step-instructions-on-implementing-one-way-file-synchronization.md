@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions on Implementing One-Way File Synchronization
-date: 2025-02-15T09:43:24.343Z
-updated: 2025-02-18T19:25:17.256Z
+date: 2025-03-02T02:36:21.989Z
+updated: 2025-03-07T19:18:12.030Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a104e3a0eb43938f94bc26b2e.jpg
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -52,10 +44,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -93,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -104,10 +88,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -145,10 +125,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Autres articles connexes
 
 ##### [Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe](https://tools.techidaily.com/ubackup/products/)
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,17 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ips-and-tricks-to-elevate-your-youtube-production-through-subtitle-integration/"><u>[New] Tips and Tricks to Elevate Your YouTube Production Through Subtitle Integration</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-3dr-a-singular-perspective-on-3d-printing-revolution/"><u>[Updated] 2024 Approved '3DR' A Singular Perspective on 3D Printing Revolution</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/2021-max-verstappen-formula-one-title-win-high-quality-backgrounds-and-desktop-wallpaper-downloads-yl-computings-top-picks/"><u>2021 Max Verstappen Formula One Title Win: High-Quality Backgrounds & Desktop Wallpaper Downloads - YL Computing's Top Picks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-balancing-iphone-hd-video-with-premiere-pros-exposure-control/"><u>2024 Approved Balancing iPhone HD Video with Premiere Pro’s Exposure Control</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-win-conversations-the-freedgpt-method/"><u>Elevate Win Conversations: The FreedGPT Method</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/essential-fixes-for-non-booting-laptops-and-desktops-tips-by-yl-software-experts/"><u>Essential Fixes for Non-Booting Laptops and Desktops – Tips by YL Software Experts</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/experiencing-graphics-glitches-learn-the-impact-of-low-ram-on-gpu-efficiency-with-yl-software-tips/"><u>Experiencing Graphics Glitches? Learn the Impact of Low RAM on GPU Efficiency with YL Software Tips</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/fixing-the-invisible-graphics-card-issue-step-by-step-solutions-by-yl-tech-experts/"><u>Fixing the Invisible Graphics Card Issue: Step-by-Step Solutions by YL Tech Experts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/peak-craft-studio-masterpiece-insight/"><u>Peak Craft Studio Masterpiece Insight</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/pixels-personal-soundtrack-a-selection-guide-for-2024/"><u>Pixel's Personal Soundtrack A Selection Guide for 2024</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/solving-pc-scanning-issues-understanding-why-your-scanner-fails-to-detect-your-computer-yl-computing/"><u>Solving PC Scanning Issues: Understanding Why Your Scanner Fails to Detect Your Computer - YL Computing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-top-practices-in-producing-trustworthy-video-product-reviews/"><u>[New] 2024 Approved Top Practices in Producing Trustworthy Video Product Reviews</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-unleash-the-full-potential-of-your-live-streams-using-onestream/"><u>[New] 2024 Approved Unleash the Full Potential of Your Live Streams Using OneStream</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-whispered-wonders-in-video-evaluating-bedtime-story-adaptations/"><u>[New] Whispered Wonders in Video Evaluating Bedtime Story Adaptations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-video-size-for-standout-instagram-content/"><u>[Updated] In 2024, Mastering Video Size for Standout Instagram Content</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/video-guide-master-the-art-of-dvd-copying-using-winx-dvd-ripper-platinum-a-step-by-step-walkthrough/"><u>[Video Guide]: Master the Art of DVD Copying Using WinX DVD Ripper Platinum - A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unpacking-sharex-evaluation-and-replacements/"><u>2024 Approved Unpacking ShareX Evaluation & Replacements</u></a></li>
+<li><a href="https://driver-download.techidaily.com/approach-recall-that-water-is-a-better-heat-conductor-than-air-which-fills-the-cellular-structure-of-wood/"><u>Approach: Recall that Water Is a Better Heat Conductor than Air, Which Fills the Cellular Structure of Wood</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/as-12-ferramentas-mais-eficientes-de-reproducao-de-dvd-livre-para-sistemas-windows-1011-descobertas/"><u>As 12 Ferramentas Mais Eficientes De Reprodução De DVD Livre Para Sistemas Windows 10/11 Descobertas!</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/best-free-windows-software-for-dvd-conversion-top-3-recommended-tools/"><u>Best Free Windows Software for DVD Conversion : Top 3 Recommended Tools</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/download-windows-7-compatible-dvd-decrypter-free-software-available-now/"><u>Download Windows 7 Compatible DVD Decrypter - Free Software Available Now</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1725287397279-dvdpc-dvd/"><u>DVDデジタル化術：PC向けハウツー記事 - DVDダビングの詳しい方法</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/guia-completa-optimizacion-del-tamano-de-archivos-video-sin-sacrificar-la-calidad-visual-mediante-herramientas-de-compresion-avanzadas/"><u>Guía Completa: Optimización Del Tamaño De Archivos Video Sin Sacrificar La Calidad Visual Mediante Herramientas De Compresión Avanzadas</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-15-plus-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 15 Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-vivo-v29e-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Vivo V29e</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-versatilitys-upside-6-perks-demystified/"><u>Linguistic Versatility's Upside: #6 Perks Demystified</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/losing-no-quality-the-ultimate-guide-to-shrinking-avi-files-in-windows-10/"><u>Losing No Quality: The Ultimate Guide to Shrinking AVI Files in Windows 10</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/masterclass-en-winxdvd-tus-pasos-definitivos-para-dominar-la-solucion-de-dvd-con-windows-manual-exhaustivo/"><u>Masterclass en WinXDVD: Tus Pasos Definitivos Para Dominar La Solución De DVD Con Windows - Manual Exhaustivo</u></a></li>
 </ul></div>
 

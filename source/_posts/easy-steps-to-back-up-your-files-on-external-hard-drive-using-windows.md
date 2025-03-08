@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Back Up Your Files on External Hard Drive Using Windows
-date: 2025-02-12T23:22:05.407Z
-updated: 2025-02-18T19:03:08.338Z
+date: 2025-03-02T22:35:39.861Z
+updated: 2025-03-07T17:55:19.763Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056b7a7373daee332b511aa58b.jpg
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Risolvere l'Impossibilità di Digitare nella Barra di Ricerca su Windows 10: Guida Completa
 
 Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella barra di ricerca su Windows 10". Impara su AOMEI Backupper e misure preventive per evitare futuri inconvenienti con la barra di ricerca. Migliora subito la tua esperienza su Windows 10!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
@@ -57,10 +49,6 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
 La barra di ricerca di Windows 10 funge da strumento centrale per un accesso rapido alle app, ai file e alle impostazioni. Quando ti ritrovi impossibilitato a digitare in questa funzione essenziale, sorgono preoccupazioni riguardo alla funzionalità del sistema e alla produttività. Le possibili cause di questo problema sono:
@@ -81,10 +69,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -102,10 +86,6 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -183,10 +163,6 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -259,10 +235,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -280,17 +252,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-comparing-free-and-premium-youtube-experiences-whats-best/"><u>[New] 2024 Approved Comparing Free and Premium YouTube Experiences What's Best?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-knowledge-for-effective-use-of-the-io-screener/"><u>[New] Essential Knowledge for Effective Use of the IO Screener</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unlocking-network-transmission-power-with-vlc-for-2024/"><u>[Updated] Unlocking Network Transmission Power with VLC for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-utilizing-netflixs-floating-window-feature-effectively/"><u>2024 Approved Utilizing Netflix's Floating Window Feature Effectively</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/conversione-gratuita-di-wma-in-m4r-su-internet-utilizzando-movavi-guida-alla-conversione-rapida-e-facile/"><u>Conversione Gratuita Di WMA in M4R Su Internet Utilizzando Movavi - Guida Alla Conversione Rapida E Facile</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-sale-alert-cutting-edge-amazon-fire-tv-omni-series-qled-now-just-150-cheaper-dont-miss-out/"><u>Huge Sale Alert: Cutting-Edge Amazon Fire TV Omni Series QLED Now Just $150 Cheaper – Don't Miss Out!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/samsung-m2020-usb-drive-software-secure-and-quick-download-options/"><u>Samsung M2020 USB Drive Software - Secure and Quick Download Options!</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/top-13-outils-videotapeurs-free-pour-le-montage-de-clips-youtube/"><u>Top 13 Outils Videotapeurs Free Pour Le Montage De Clips YouTube</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/top-5-grabadoras-de-imagen-con-accesorios-para-diagramacion-por-movavi/"><u>Top 5 Grabadoras De Imagen Con Accesorios Para Diagramación Por Movavi</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/transformation-gratuite-de-fichiers-pcx-en-images-jpeg-sur-internet-mouvavi/"><u>Transformation Gratuite De Fichiers PCX en Images JPEG Sur Internet - Mouvavi</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/wheres-the-community-twitch-and-youtube-side-by-side/"><u>Where's the Community? Twitch & YouTube Side by Side</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-basic-win10-screen-save-program/"><u>[New] 2024 Approved Basic Win10 Screen Save Program</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-picart-anonymizer-swiftly-hide-identities/"><u>[New] 2024 Approved PicArt Anonymizer Swiftly Hide Identities</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-elevate-engagement-enhancing-videos-with-pro-editing-skills/"><u>[Updated] Elevate Engagement Enhancing Videos with Pro Editing Skills</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-practices-for-converting-youtube-hosted-tweets-into-mp3s/"><u>2024 Approved Best Practices for Converting YouTube-Hosted Tweets Into MP3s</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/windows-11-0xc00-user/"><u>防ぐには何が！Windows 11のクラッシュエラー 0XC00 # User</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/backup-di-windows-11-su-qnap-nas-due-metodi-provenienti/"><u>Backup Di Windows 11 Su QNAP NAS: Due Metodi Provenienti</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/complete-overview-solving-common-problems-with-the-latest-ios-version/"><u>Complete Overview: Solving Common Problems with the Latest iOS Version</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-gt-neo-5-se-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme GT Neo 5 SE to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-vs-multiverse-whats-the-difference/"><u>In 2024, Metaverse vs Multiverse What's the Difference?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-upcoming-m3-macbook-pro-availability-forecast-cost-estimates-and-full-feature-breakdown/"><u>Inside the Upcoming M3 MacBook Pro: Availability Forecast, Cost Estimates & Full Feature Breakdown</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/it-enhances-wear-resistance-which-extends-the-service-life-of-components-made-from-these-alloys-by-reducing-surface-degradation/"><u>It Enhances Wear Resistance, Which Extends the Service Life of Components Made From These Alloys by Reducing Surface Degradation.</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/les-5-strategies-provenant-pour-depanner-le-clonage-avec-macrium-reflect/"><u>Les 5 Stratégies Provenant Pour Dépanner Le Clonage Avec Macrium Reflect</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/resolved-stop-google-drive-from-automatically-removing-aged-documents-tips-and-tricks/"><u>Resolved: Stop Google Drive From Automatically Removing Aged Documents – Tips and Tricks</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/step-by-step-guide-generating-a-fully-updated-vmware-esxi-bootable-iso-image/"><u>Step-by-Step Guide: Generating a Fully Updated VMware ESXi Bootable ISO Image</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-narzo-n55-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme Narzo N55 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/top-freeware-para-copiar-y-transferir-con-exito-un-ssd-a-otro-en-varias-versiones-de-windows/"><u>Top Freeware Para Copiar Y Transferir Con Éxito Un SSD a Otro en Varias Versiones De Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-create-trending-content-and-get-exploded-views-on-tiktok/"><u>Ultimate Guide: Create Trending Content & Get Exploded Views on TikTok!</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1728488168221-win11/"><u>Win11對話錄不見？立馬解答 - 緊急技術拯救法大公開</u></a></li>
 </ul></div>
 

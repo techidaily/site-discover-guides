@@ -1,7 +1,7 @@
 ---
 title: Wie Sie Ihre E-Mails Aus Foxmail Systematisch Als PST Dateien Exportieren Können
-date: 2025-02-15T08:51:41.994Z
-updated: 2025-02-19T12:31:37.590Z
+date: 2025-03-06T18:13:04.407Z
+updated: 2025-03-07T23:22:22.986Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c0bcadfec382f35c405d63aa.jpg
@@ -24,10 +24,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
@@ -38,10 +34,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -93,10 +85,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -116,14 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -165,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -178,10 +154,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,24 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ecording-with-precision-perfecting-ios-device-features-on-youtube-for-2024/"><u>[New] Recording with Precision Perfecting iOS Device Features on YouTube for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-vivavideo-review-the-users-perspective-for-2024/"><u>[New] VivaVideo Review The User's Perspective for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-mastering-media-management-on-instagram/"><u>2024 Approved Mastering Media Management on Instagram</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-the-loop-a-comprehensive-guide-for-instagram-videographers/"><u>2024 Approved Mastering the Loop A Comprehensive Guide for Instagram Videographers</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/can-you-safely-deactivate-windows-defender-without-compromising-your-pcs-security-insights-by-yl-computing/"><u>Can You Safely Deactivate Windows Defender Without Compromising Your PC's Security? - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/checking-your-printers-ink-status-a-step-by-step-guide-by-yl-computing/"><u>Checking Your Printer's Ink Status: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/detecting-issues-with-your-hard-disk-tips-and-signs-expertise-by-yl/"><u>Detecting Issues with Your Hard Disk: Tips & Signs - Expertise by YL</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/discover-how-cryptocurrencies-enhance-your-financial-options-with-insight-from-yl-computing/"><u>Discover How Cryptocurrencies Enhance Your Financial Options with Insight From YL Computing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-tips-for-seamless-photo-and-video-import-in-windows-10/"><u>Expert Tips for Seamless Photo and Video Import in Windows 10</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/high-definition-mountain-scenes-hd-desktop-wallpaper-collection-premium-nature-backdrops-by-yl-computing/"><u>High-Definition Mountain Scenes HD Desktop Wallpaper Collection - Premium Nature Backdrops by YL Computing</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/how-to-fix-a-laptop-that-wont-charge-expert-tips-from-yl-computing/"><u>How to Fix a Laptop That Won't Charge: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-comprehensive-visuals-what-sets-360-apart/"><u>In 2024, Comprehensive Visuals What Sets 360° Apart?</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/mastering-hardware-fixes-proven-methods-by-yl-software-specialists-to-overcome-tech-hurdles/"><u>Mastering Hardware Fixes: Proven Methods by YL Software Specialists to Overcome Tech Hurdles</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/schritt-fur-schritt-leitfaden-zur-einrichtung-von-dateiubertragungen-in-einem-windows-11-netzwerk/"><u>Schritt-Für-Schritt-Leitfaden Zur Einrichtung Von Dateiübertragungen in Einem Windows 11 Netzwerk</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/speedy-screen-grab-creation-techniques-for-2024/"><u>Speedy Screen Grab Creation Techniques for 2024</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/step-by-step-guide-renaming-files-and-directories-on-windows-tech-insights-with-yl-computing/"><u>Step-by-Step Guide: Renaming Files and Directories on Windows - Tech Insights with YL Computing</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/the-transformative-era-understanding-the-profound-influence-of-the-1919-may-fourth-movement-in-chinese-culture-insights-from-yl-computing/"><u>The Transformative Era: Understanding the Profound Influence of the 1919 May Fourth Movement in Chinese Culture – Insights From YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-guides-on-latest-gadgets/"><u>Tom's Tech Review: In-Depth Guides on Latest Gadgets</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-fade-audio-in-ableton/"><u>[New] How to Fade Audio in Ableton</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-simple-images-to-creative-stickers-complete-tutorial-for-chat-app-enthusiasts/"><u>2024 Approved From Simple Images to Creative Stickers Complete Tutorial for Chat App Enthusiasts</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1725286635646-dvd/"><u>初心者にもわかりやすいジャニーズDVDの高品質コピー技術</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/accelera-la-reproduccion-de-video-y-audio-rapidamente-utilice-winxvideo-ai-para-rendimiento-optimizado-por-gpu/"><u>Accelera La Reproducción De Video Y Audio Rápidamente: Utilice Winxvideo AI Para Rendimiento Optimizado Por GPU</u></a></li>
+<li><a href="https://extra-information.techidaily.com/acquire-excellent-images-at-no-cost-essential-strategies/"><u>Acquire Excellent Images at No Cost Essential Strategies</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-4k-video-editors-expert-reviews-and-comparisons-for-2024/"><u>Best 4K Video Editors Expert Reviews and Comparisons for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/como-clonar-um-dvd-em-computadores-com-windows-versoes-11-10-8-e-7/"><u>Como Clonar Um DVD Em Computadores Com Windows (Versões 11, 10, 8 E 7)</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/digiarty-reach-out-now-your-ultimate-contact-solution/"><u>Digiarty: Reach Out Now - Your Ultimate Contact Solution</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-tips-for-capturing-high-quality-audio-in-filmmaking-for-2024/"><u>Essential Tips for Capturing High-Quality Audio in Filmmaking for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/gpu-winxvideo-ai/"><u>GPU 기술을 사용한 Winxvideo AI: 대규모 미드 및 오디오를 빠르고 원활하게 변환</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/logitech-c615-unpacking-value-and-efficiency-for-savvy-shoppers-seeking-a-reliable-webcam/"><u>Logitech C615: Unpacking Value and Efficiency for Savvy Shoppers Seeking a Reliable Webcam</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/movmp4windows-11/"><u>MOVからMP4へのスムーズな変換：Windows 11で無料で高品質</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/top-5-ausgezeichnete-4k-ultra-hd-videospieler-fur-windows-und-mac-os-herunterladen-and-bewertung/"><u>Top 5 Ausgezeichnete 4K Ultra HD-Videospieler Für Windows Und Mac OS - Herunterladen & Bewertung</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/top-6-methods-for-transferring-dvd-content-onto-your-pc-the-ultimate-guide/"><u>Top 6 Methods for Transferring DVD Content Onto Your PC - The Ultimate Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-persistent-losing-of-ark-in-your-adventure-game/"><u>Troubleshooting Guide: Resolving Persistent Losing of Ark in Your Adventure Game</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/vocalists-choice-the-finest-9-online-mic-recorders-for-2024/"><u>Vocalist's Choice The Finest 9 Online Mic Recorders for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210398449-9781667411996-vozes-do-alem/"><u>Vozes do além | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Switching Off iCloud Photo Library Without Losing Data
-date: 2025-01-23T16:13:34.806Z
-updated: 2025-01-27T16:15:11.449Z
+date: 2025-02-28T22:29:14.714Z
+updated: 2025-03-08T00:20:28.820Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152db90ae5a3b63c07a0dcd2fd7.jpg
@@ -61,10 +61,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -85,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -96,10 +88,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -109,10 +97,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -120,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -140,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,17 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-driving-engagement-on-instagram-a-step-by-step-guide-for-2024/"><u>[New] Driving Engagement on Instagram A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-comprehensive-solution-guide-turning-xml-and-ttml-into-srt/"><u>[Updated] Comprehensive Solution Guide Turning XML & TTML Into SRT</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/gmailoutlook-seo/"><u>仕事関連メールをGmail、Outlookで安全に保存する技術ガイド - SEO向上</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/behebt-die-fehlerbehebung-von-windows-amoynebzbk-die-sicherungsgrosse-wird-mit-null-byte-aufgefuhrt/"><u>Behebt Die Fehlerbehebung Von Windows Amoynebzbk: Die Sicherungsgröße Wird Mit Null Byte Aufgeführt</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/comment-retrouver-votre-sauvegarde-de-fallout-n-4-sur-pc-methodes-rapides-pour-recuperer-ses-donnees/"><u>Comment Retrouver Votre Sauvegarde De Fallout N 4 Sur PC: Méthodes Rapides Pour Récupérer Ses Données</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-hp-laserjet-1018-printer-software-driver-get-it-now/"><u>Free HP LaserJet 1018 Printer Software (Driver) - Get It Now</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/guide-simple-pour-effectuer-un-decryptage-securise-du-disque-raw-exterieur-seagate-sans-corruption-des-fichiers/"><u>Guide Simple Pour Effectuer Un Décryptage Sécurisé Du Disque RAW Extérieur Seagate Sans Corruption Des Fichiers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-tecno-pova-6-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Tecno Pova 6 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-y27s-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo Y27s Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/soluzione-rapida-per-ripristinare-la-configurazione-di-windows-11-quando-si-blocca/"><u>Soluzione Rapida per Ripristinare La Configurazione Di Windows 11 Quando Si Blocca</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/syncing-tiktok-videos-with-your-facebook-profile/"><u>Syncing TikTok Videos with Your Facebook Profile</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/pchddssd/"><u>デスクトップPCにおけるHDDとSSDのハードウェア切り換えガイド</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-eliminate-excess-efficient-use-of-the-eraser-in-photoshop/"><u>[New] Eliminate Excess Efficient Use of the Eraser in Photoshop</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-indoor-games-galore-top-9-screen-less-titles-for-android-gamers-for-2024/"><u>[Updated] Indoor Games Galore Top 9 Screen-Less Titles for Android Gamers for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-guide-to-digital-marketing-triumphs/"><u>[Updated] The Ultimate Guide to Digital Marketing Triumphs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-visual-clarity-blur-your-meeting-backgrounds/"><u>2024 Approved Mastering Visual Clarity Blur Your Meeting Backgrounds</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoiding-risks-keeping-personal-data-secure-in-user-customized-gpt-applications/"><u>Avoiding Risks: Keeping Personal Data Secure in User-Customized GPT Applications</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-flawless-footage-top-choices-of-tripods-for-youtubers/"><u>Capture Flawless Footage Top Choices of Tripods for YouTubers</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/does-your-scanning-equipment-need-a-firmware-overhaul-expert-tips-by-yl-software/"><u>Does Your Scanning Equipment Need a Firmware Overhaul? Expert Tips by YL Software</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/effortless-guide-opening-and-watching-avi-files-on-your-windows-pc-tips-from-yl-computing/"><u>Effortless Guide: Opening and Watching AVI Files on Your Windows PC - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/navigating-older-windows-graphics-drivers-assessing-risks-and-staying-secure-insights-from-yl-software-experts/"><u>Navigating Older Windows Graphics Drivers: Assessing Risks and Staying Secure – Insights From YL Software Experts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/repair-guide-how-to-mend-a-damaged-smartphone-display/"><u>Repair Guide: How to Mend a Damaged Smartphone Display</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/troubleshooting-non-syncing-scanners-and-devices-tips-by-yl-software-professionals/"><u>Troubleshooting Non-Syncing Scanners & Devices - Tips by YL Software Professionals</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/troubleshooting-ram-problems-expert-tips-from-yl-computings-tech-solutions/"><u>Troubleshooting RAM Problems: Expert Tips From YL Computing's Tech Solutions</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/unveiling-history-the-lasting-effects-of-the-eight-nations-intervention-on-chinese-society-and-culture-analysis-by-yl-software/"><u>Unveiling History: The Lasting Effects of the Eight Nations' Intervention on Chinese Society and Culture - Analysis by YL Software</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/why-are-you-experiencing-memory-errors-and-system-crashes-explore-solutions-with-yl-computing/"><u>Why Are You Experiencing Memory Errors and System Crashes? Explore Solutions with YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-home-vs-pro-which-is-best-for-you/"><u>Windows 11 Home Vs. Pro: Which Is Best for You?</u></a></li>
 </ul></div>
 

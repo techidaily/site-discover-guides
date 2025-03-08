@@ -1,7 +1,7 @@
 ---
 title: "Behebt Die Fehlerbehebung Von Windows Amoynebzbk: Die Sicherungsgröße Wird Mit Null Byte Aufgeführt"
-date: 2025-02-17T22:13:19.651Z
-updated: 2025-02-19T00:32:17.672Z
+date: 2025-03-04T21:02:46.254Z
+updated: 2025-03-07T19:07:09.178Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/9304676ddebde0491fac069817e2e83439806cdb3bbe061f637b22cd4655ca5f.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/9304676ddebde0491fac069817e2e83439806cdb3
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -60,10 +56,6 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
@@ -75,10 +67,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 2\. On the Home screen, you can create a backup task by clicking **Define Backup Wizard** or **Run or Manage Backups**. Here we choose the latter one.
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. The **Easy Setup** screen will appear.
 
@@ -140,10 +128,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -154,10 +138,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
@@ -165,10 +145,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:**
 
@@ -188,14 +164,6 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Clone Hard Drive
 
 You can directly clone hard drive to another one with the **[Disk Clone](https://tools.techidaily.com/ubackup/products/)** feature. If you are cloning HDD to SSD, you can make use of the "**SSD Alignment**" feature to improve the read/write speed of the destination SSD.
@@ -214,10 +182,6 @@ That’s all for how to use Norton Ghost 15\. Indeed Norton Ghost is a good tool
 For backup and restore features, you have 4 corresponding options plus two premium features - Universal Restore and Explore Image. It helps to perform dissimilar hardware restore for system or disk and restore files from other backup types, such as, system, disk, or partition. 
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs about Norton Ghost
 
@@ -277,10 +241,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -298,15 +258,19 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-endless-entertainment-the-science-behind-youtube-loops-for-2024/"><u>[New] Endless Entertainment The Science Behind YouTube Loops for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-essential-flight-accessories-for-the-phantom-4-for-2024/"><u>[New] Essential Flight Accessories for the Phantom 4 for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-what-lies-behind-the-unlisted-tag-on-youtube/"><u>[New] In 2024, What Lies Behind the 'Unlisted' Tag on YouTube?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-virtual-realities-made-tangible-6-metaverse-examples-reviewed-for-2024/"><u>[New] Virtual Realities Made Tangible 6 Metaverse Examples Reviewed for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-top-15-handhentic-hd-cameras-for-action/"><u>[Updated] Top 15 Handhentic HD Cameras for Action</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-tecno-pova-5-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Tecno Pova 5 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/cafwavwindows-10/"><u>CAFからWAVへのシームレス変換：Windows 10ユーザー向けガイド</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/civil-unrest/"><u>Civil Unrest</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/comprehensive-guide-reducing-file-size-of-mp4-videos-on-computers-mobile-devices-and-via-online-tools/"><u>Comprehensive Guide: Reducing File Size of MP4 Videos on Computers, Mobile Devices, and Via Online Tools</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/discover-how-to-get-your-favorite-films-and-shows-subtitles-for-free-with-these-16-sites/"><u>Discover How to Get Your Favorite Films & Shows' Subtitles for Free with These 16 Sites!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-past-facebook-feed-exploration-for-laptops-and-phones-for-2024/"><u>[New] Mastering Past Facebook Feed Exploration for Laptops and Phones for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-best-8-filter-packs-for-dynamic-video-streaming/"><u>[Updated] 2024 Approved Best 8 Filter Packs for Dynamic Video Streaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cookiebot-your-reliable-partner-for-advanced-personalization-solutions/"><u>Cookiebot: Your Reliable Partner for Advanced Personalization Solutions</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/gratis-mov-to-mp3-converter-online-professioneel-en-breed-zoekbare/"><u>Gratis MOV-to-MP3 Converter Online: Professioneel en Breed Zoekbare</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oppo-reno-8t-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Oppo Reno 8T 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-telegram-web-a-step-by-step-pathway/"><u>In 2024, Mastering Telegram Web A Step-by-Step Pathway</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/les-12-techniques-ingredients-pour-converter-du-raw-cr2-en-jpg-via-des-serveurs-virtuels-et-des-pcs-guide-de-2024/"><u>Les 12 Techniques Ingrédients Pour Converter Du RAW CR2 En JPG Via Des Serveurs Virtuels Et Des PCs - Guide De 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ize-video-discoverability-key-youtube-seo-techniques-for-2024/"><u>Maximize Video Discoverability Key YouTube SEO Techniques for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/movavimpgmp4/"><u>Movaviアプリを使って無料でMPGからMP4への直接変換サービス</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/online-vrij-nieuw-konvertor-voor-flv-naar-vob-gratis-professioneel-en-bewijs-van-zeerveiligheid-movavi/"><u>Online Vrij Nieuw Konvertor Voor FLV Naar VOB: Gratis, Professioneel En Bewijs Van Zeerveiligheid Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-dev-error-6034-for-call-of-duty-modern-warfare-players-pc-and-xbox-solutions/"><u>Resolving Dev Error 6034 for Call of Duty: Modern Warfare Players - PC and Xbox Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/spotify-web-player-troubleshooting-guide-speed-issues-and-solutions-updated/"><u>Spotify Web Player Troubleshooting Guide - Speed Issues & Solutions [Updated ]</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/transferer-un-fichier-mp3-vers-le-format-m4a-gratuitement-sur-internet-movavi/"><u>Transférer Un Fichier MP3 Vers Le Format M4A Gratuitement Sur Internet - Movavi</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/mp4avimp3/"><u>オンラインでフリーな動画と音楽のMP4/AVIからMP3へ簡単変換 - ムヴァヴィ</u></a></li>
 </ul></div>
 

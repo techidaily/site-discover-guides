@@ -1,7 +1,7 @@
 ---
 title: Comment Reconstruire Votre Icône De Bureau Perdue Facilement
-date: 2025-01-23T16:02:27.141Z
-updated: 2025-01-27T16:06:28.906Z
+date: 2025-03-01T17:35:32.210Z
+updated: 2025-03-07T21:54:50.438Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533edda16b2785562f97192408.jpg
@@ -35,10 +35,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -65,17 +61,9 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -84,10 +72,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -101,10 +85,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -112,10 +92,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,17 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-beat-hopping-boundaries-linking-service-playlists-together/"><u>[New] Beat Hopping Boundaries Linking Service Playlists Together</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-excellence-visuals-appraisal-pinnacle-studio-current-year-for-2024/"><u>[Updated] Excellence Visuals Appraisal Pinnacle Studio, Current Year for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-social-media-strategy-decoding-igtv-versus-youtubes-features/"><u>[Updated] In 2024, Social Media Strategy Decoding IGTV Versus YouTube's Features</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1-uncover-the-reasons-behind-computer-system-lockups-insights-from-yl-computings-experts/"><u>1. Uncover the Reasons Behind Computer System Lockups: Insights From YL Computing's Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/"><u>A Guide to Quickly Opens Sticky Notes in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-xiaomi-redmi-note-12-pro-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Xiaomi Redmi Note 12 Pro 5G Devices</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/opening-your-ms-word-documents-easily-expert-advice-from-yl-software-specialists/"><u>Opening Your MS Word Documents Easily - Expert Advice From YL Software Specialists</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/overcoming-lagging-system-response-times-with-expert-tips-by-yl-computing-and-yl-software/"><u>Overcoming Lagging System Response Times with Expert Tips by YL Computing & YL Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-persistent-issue-stop-content-warning-from-crashing-your-pc/"><u>Solving the Persistent Issue: Stop 'Content Warning' From Crashing Your PC!</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/taiwans-foxconn-ceo-terry-gou-enters-presidential-race-impact-on-kmt-unity-and-potential-support-for-dpps-lai-ching-te/"><u>Taiwan's Foxconn CEO Terry Gou Enters Presidential Race: Impact on KMT Unity & Potential Support for DPP's Lai Ching-Te</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/troubleshooting-your-computers-graphics-driver-installation-with-yl-software-guidance/"><u>Troubleshooting Your Computer's Graphics Driver Installation with YL Software Guidance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-significance-of-microsofts-monthly-security-updates-a-guide-to-patch-tuesdays/"><u>Understanding the Significance of Microsoft's Monthly Security Updates: A Guide to Patch Tuesdays</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unmatched-mobileweb-image-magnification-toolkit/"><u>[Updated] 2024 Approved Unmatched Mobile/Web Image Magnification Toolkit</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-breeze-through-your-latest-fb-watches-2023-edition-for-2024/"><u>[Updated] Breeze Through Your Latest FB Watches 2023 Edition for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/aurvana-ace-2-earphones-analysis-superior-sound-quality-with-room-for-improvement-in-active-noise-cancellation/"><u>Aurvana Ace 2 Earphones Analysis: Superior Sound Quality with Room for Improvement in Active Noise Cancellation</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/expert-analysis-of-plugables-versatile-11-in-1-dual-hdmi-dock-expander-a-must-have-upgrade-for-efficient-windows-operations/"><u>Expert Analysis of Plugable's Versatile 11-in-1 Dual HDMI Dock Expander: A Must-Have Upgrade for Efficient Windows Operations</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-activate-stellar-data-recovery-for-iphone-13-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Activate Stellar Data Recovery for iPhone 13 | Stellar</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-12-mini-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 12 mini Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-crafting-exquisite-hdr-portraits/"><u>In 2024, The Ultimate Guide to Crafting Exquisite HDR Portraits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-rumors-on-apples-new-hearing-device-a-comprehensive-guide-to-expected-costs-release-plans-and-tech-specs/"><u>Inside Rumors on Apple's New Hearing Device - A Comprehensive Guide to Expected Costs, Release Plans & Tech Specs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-ai-into-development-processes-insights-from-experienced-coders/"><u>Integrating AI Into Development Processes: Insights From Experienced Coders</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discounts-await-at-dollar-flight-club-secure-94-off-flights-today/"><u>Massive Discounts Await at Dollar Flight Club - Secure 94% Off Flights Today!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-download-linksys-ae1200-wi-fi-router-drivers-with-ease/"><u>Quick Guide: Download Linksys AE1200 Wi-Fi Router Drivers with Ease</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/review-of-wemax-compact-mini-projector-excellent-aesthetics-with-average-functionality/"><u>Review of Wemax Compact Mini Projector: Excellent Aesthetics with Average Functionality</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/reviewing-mophies-latest-iphone-charger-case-enhanced-battery-life-with-some-sacrifices/"><u>Reviewing Mophie's Latest iPhone Charger Case - Enhanced Battery Life with Some Sacrifices</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/reviewing-tribits-stormbox-your-next-top-tier-bluetooth-sound-solution/"><u>Reviewing Tribit's Stormbox: Your Next Top-Tier Bluetooth Sound Solution?</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/section-2c-similar-questions-with-solutions/"><u>Section 2C: Similar Questions with Solutions</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/the-evolution-of-excellence-in-sound-a-review-of-the-enhanced-jabra-elite-10-gen-2-with-intelligent-case-technology/"><u>The Evolution of Excellence in Sound - A Review of the Enhanced Jabra Elite 10 Gen 2 with Intelligent Case Technology</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/ultimate-guide-to-using-the-15w-belkin-boostcharge-pro-the-powerful-qi2-charging-pad-with-a-secret-companion-port/"><u>Ultimate Guide to Using the 15W Belkin BoostCharge Pro: The Powerful Qi2 Charging Pad with a Secret Companion Port</u></a></li>
 </ul></div>
 

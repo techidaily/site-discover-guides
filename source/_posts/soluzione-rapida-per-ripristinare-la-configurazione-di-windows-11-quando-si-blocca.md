@@ -1,7 +1,7 @@
 ---
 title: Soluzione Rapida per Ripristinare La Configurazione Di Windows 11 Quando Si Blocca
-date: 2025-02-13T16:37:07.767Z
-updated: 2025-02-18T23:53:17.142Z
+date: 2025-03-03T18:14:01.598Z
+updated: 2025-03-07T23:20:57.800Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c1487439cf5694d3a9ccaf02.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -48,10 +44,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -81,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -97,17 +85,9 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -116,10 +96,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -177,10 +153,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -198,24 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-the-art-of-impressive-hdr-portraits-explained/"><u>[New] The Art of Impressive HDR Portraits Explained</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-cutting-edge-video-ideas-for-maximum-impact/"><u>2024 Approved Cutting-Edge Video Ideas for Maximum Impact</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/midi/"><u>変更前後で拡張子が異なるオーディオ、MIDIファイルの互換性対策</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-ai-skills-discover-the-7-key-tips-for-flawlessly-crafted-prompts/"><u>Boost Your AI Skills: Discover the 7 Key Tips for Flawlessly Crafted Prompts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-11-pro-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 11 Pro Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/easy-methods-for-recording-site-audio-directly-top-tips-and-tools/"><u>Easy Methods for Recording Site Audio Directly - Top Tips & Tools!</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/ensuring-secure-streaming-handling-kodis-stream-auth-entries/"><u>Ensuring Secure Streaming: Handling Kodi's Stream Auth Entries</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/handbrake-safety-guide-secure-downloading-and-usage-tips/"><u>Handbrake Safety Guide - Secure Downloading & Usage Tips</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mirroring-mastery-the-craft-of-comical-mocks-for-2024/"><u>Mirroring Mastery The Craft of Comical Mocks for 2024</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/quick-start-converting-transport-stream-ts-to-mp4-using-ffmpeg-for-beginners/"><u>Quick Start: Converting Transport Stream (TS) to MP4 Using FFmpeg for Beginners</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-gametime-freezing-frame-rate-fluctuations-and-optimizing-gaming-speed/"><u>Resolved: Fixes for GameTime Freezing, Frame Rate Fluctuations & Optimizing Gaming Speed</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/simple-conversion-of-m4a-to-mp3-files-on-windows-11-and-10-a-step-by-step-guide/"><u>Simple Conversion of M4A to MP3 Files on Windows 11 and 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-great.techidaily.com/sing-your-heart-out-with-the-latest-additions-to-our-karaoke-library-special-early-access-for-subscribers-of-karaoke-cloud-pro/"><u>Sing Your Heart Out with the Latest Additions to Our Karaoke Library - Special Early Access for Subscribers of Karaoke Cloud Pro!</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/solving-codec-errors-for-dolby-vision-playback-compatibility-tips-for-windows-users/"><u>Solving Codec Errors for Dolby Vision Playback: Compatibility Tips for Windows Users</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/step-by-step-guide-converting-your-collection-of-vob-files-into-mp4-for-universal-playback/"><u>Step-by-Step Guide: Converting Your Collection of VOB Files Into MP4 for Universal Playback</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/the-ultimate-guide-choosing-the-best-amr-player-software-for-optimal-sound-quality-across-pcs-and-smartphones/"><u>The Ultimate Guide: Choosing the Best AMR Player Software for Optimal Sound Quality Across PCs and Smartphones</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-samsung-galaxy-a05-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Samsung Galaxy A05 Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-s23-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy S23 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-realme-v30t-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Realme V30T Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-cam-clash-sj6-legend-versus-yi-4k-visionary/"><u>[New] In 2024, Cam Clash SJ6 Legend Versus Yi 4K Visionary</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-bypass-issue-twitter-video-on-chrome-freeze-for-2024/"><u>[Updated] Bypass Issue Twitter Video on Chrome Freeze for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-reclaiming-deleted-youtube-treasures-a-2-step-guide/"><u>2024 Approved Reclaiming Deleted YouTube Treasures A 2-Step Guide</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/web-mkvwavmovavi/"><u>完全無料のWeb MKV/WAVファイル変換ツール：Movaviで簡単な操作</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/conversion-libre-de-m4b-vers-flac-online-movavi/"><u>Conversion Libre De M4B Vers FLAC Online - Movavi</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/conversion-video-libre-de-frais-de-mp4-a-avi-pour-linternet/"><u>Conversion Vidéo Libre De Frais: De MP4 À AVI Pour L'Internet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/fast-track-french-lingo-for-painters/"><u>Fast-Track French Lingo for Painters</u></a></li>
+<li><a href="https://games-able.techidaily.com/guaranteeing-steams-seamless-data-transfer/"><u>Guaranteeing Steam’s Seamless Data Transfer</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/hoe-u-kunt-de-winodlog-locatien-beheersen-in-wndows-10-top-4-afwijkingskundige-methoden/"><u>Hoe U Kunt De Winodlog Locatien Beheersen in Wndows 10: Top 4 Afwijkingskundige Methoden</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-k70-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi K70 Phone without PIN</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-navigating-the-ebb-and-flow-of-daily-social-media-use/"><u>In 2024, Navigating the Ebb and Flow of Daily Social Media Use</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-animation-tools-expert-approved-software-for-mac-and-pc/"><u>New In 2024, Top Animation Tools Expert-Approved Software for Mac and PC</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/step-by-step-tutorial-mastering-minecraft-gameplay-capture-on-windows-using-movavi-software/"><u>Step-by-Step Tutorial: Mastering Minecraft Gameplay Capture on Windows Using Movavi Software</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/top-17-applications-de-screenshot-gratuites-en-2024-une-selection-exhaustive-avec-movavi/"><u>Top 17 Applications De Screenshot Gratuites en 2024: Une Sélection Exhaustive Avec Movavi</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/transforma-archivos-mpe-a-formatos-de-auriculares-m4r-sin-costo-con-herramientas-online-gratuitas/"><u>Transforma Archivos MPE a Formatos De Auriculares M4R Sin Costo Con Herramientas Online Gratuitas</u></a></li>
 </ul></div>
 
